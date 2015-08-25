@@ -1,0 +1,17 @@
+日月秘密：
+1.拜师
+  a.拜东方：
+    拜师条件看help menpai-riyuejiao，在大殿里面看到的东方不是真正的东方不败，是傀儡而已。当达到拜师要求时，可以ask yang about 东方教主，留意他说的拿句话（圣教主文成武德，仁义英明，中兴圣教，泽被苍生。），然后give yang 20 gold，yang就会给你一把钥匙,nw,unlock gate,push wall,enter,w,out,n,w,就可以看到真正的东方了。拜东方之前必须拍东方的马屁，“say 圣教主文成武德，仁义英明，中兴圣教，泽被苍生。”搞定。
+   拜了东方之后需要留意道德的变化，道德过低会被开除。
+  b.拜任我行
+   拜师条件help menpai-riyuejiao，到向问天处，ask xiang about 救人，得到钢丝锯，然后找齐四宝去梅庄（四宝的拿法见后），然后从ct,do 5 e,n,knock gate 5/3/4/2，就可以进梅庄了。在丁坚处，look drawing，ask ding about 剑术，就可以见到danqing sheng，对四个人分别ask ** about 任我行，然后把相应的物品给相应的人,fight **，打赢了就可以那到钥匙，凑齐4把钥匙就可以从黄钟公，哪里n，可以move chuang，pull tong huan，然后进入地道，unlock gate，可以见到任我行了，当然了，监狱里是不可以收徒的。（具体可参考小说《笑熬浆糊》，哈哈）。
+   任我行从牢狱里逃脱之后你就惨了，这个时候多观察观察，look gate，open gate，大摇大摆出门，回到黑木崖拜师去吧。
+
+2.物品
+  a.四宝：ct，do 5 n,nw,do 6 n,do 6 e,n,到李铁嘴处，ask teller about 四宝，give teller 5 gold，获得一个小纸条，l tiaozi，就可以看到提示了，率意贴在zhu xi身上(ct,e,n),溪山行旅图在星宿黑店（ct,do 6 w,nu,wd,get drawing),呕血谱在无量残局(move canju),广陵散比较麻烦（先拿点喝的，hulu，jiudai都行，然后到日月神教的柴房，move wood，give qu jiudai，得到笑熬江湖之曲，这个时候就需要出动华山的大米了，到任盈盈处(from center，4e，n，w)，ask ren about 令狐冲，把令狐冲引过来之后，ask ren about 曲长老，把笑熬江湖之曲给任，有1/3的机率获得广零散）
+  b.日月刀剑：到日月神教的房间里面拿一个蜡烛，然后去败虎堂西侧的柴房，drop la zhu,get la zhu,e，就着火了（着火了怎么跑出去呢，这个时候就判断逃命的功夫dodge了，dodge小于100的id可能会死），过一会儿就可以回柴房search了，能搜到什么就看运气了。
+  c.黑木令/葵花宝典/葵花宝典心法：均在东方不败处,ask dongfang about 葵花宝典，ask dongfang about 任我行,ask dongfang about 黑木令,ask dongfang about 心法，注意，判师的是不可以拿心法的。葵花宝典可以读pixie-jian到200,读kuihua-shengong到250(分别用study和read命令进行研读),但读kuihua-shengong超过160级时如果没有心法辅助一定会走火的，走火之后会发疯，而且也葵花神功也会降低。
+  d.任我行的首级：拿葵花宝典和心法必须拿的物品，凭黑木令进装，ask 丹青生 about 任我行，就是问你是否下读，如果选择y的话，利马可以得到，如果回答n就需要跟前面一样直接杀进去了，可以对任我行的尸体下cut corpse命令。
+  e.开山掌秘籍/鹰爪功秘籍：可读claw和strike到150,但是特别难拿，需要消费四宝，分别fight四个人之后，从黄钟公n,search table，运气好可拿到，机率1/6左右。
+  f.黑木崖地图/碧水剑：日月神教有个鬼鬼祟祟的农夫，ask nong fu about 华山派，k掉之后可以发现地图，如果把地图给童百熊可以获得负五千的道德，日月弟子可以获得15点忠诚度，如果把地图给岳不群则可以获得五千的正道德，并获得碧水剑。
+  g.三尸脑神丹：ask tong about 三尸脑神丹，或者ask ren yingying about 解药，对忠诚度有一定要求。

@@ -1,0 +1,101 @@
+ask guardian about quest
+You ask The Forest Guardian about 'quest'.
+The Forest Guardian tells you 'I am very concerned about the health_of_my_forest.'
+
+<400/400hp 170/170ma 96/138mv> xp:2720632 g:150800 ac:[-0.7] 8:33 am The Greek Forest BH
+undertake health_of_my_forest
+The Forest Guardian tells you 'I am so glad you are willing to help me.'
+The Forest Guardian tells you 'If you could manage to capture one of the smaller creatures which calls '
+The Forest Guardian tells you 'the southern stream their home and bring it to me I will be able examine '
+The Forest Guardian tells you 'it and assess the current condition of the water.  This will give me an '
+The Forest Guardian tells you 'indication of the overall health of my forest.  Remember, I need a live '
+The Forest Guardian tells you 'specimen, though preferrably one who won't put up too much of a fight '
+The Forest Guardian tells you 'during my examination.'
+
+Ring of Protection
+Exits: East  South  West  
+You see The Forest Guardian here.
+
+<400/400hp 170/170ma 78/138mv> xp:2678531 g:150130 ac:[-3.7] 10:04 pm The Greek Forest BH
+flee s
+Damp Path
+Exits: North  South  
+You flee head over heels.
+Small Stream
+Exits: North  South  
+You flee head over heels.
+Shallow Stream
+Exits: North  South  
+You flee head over heels.
+Rushing Water
+Exits: North  South  
+You see two naiads here.
+You flee head over heels.
+Bend in the Stream
+Exits: North  East  
+You flee head over heels.
+PANIC! You couldn't escape!
+
+<400/400hp 170/170ma 60/138mv> xp:2678531 g:150130 ac:[-3.7] 10:08 pm The Greek Forest BH
+l
+Bend in the Stream
+   Deep, swirling pools stir behind an array of large, well-worn boulders 
+staggered throughout the stream.  Rushing water spills in swiftly from the 
+north.  The flow crashes against the steep, rocky southern embankment in a 
+fantastic display of white water before being diverted eastward.
+Exits: North  East  
+
+<400/400hp 170/170ma 62/138mv> xp:2678531 g:150130 ac:[-3.7] 10:10 pm The Greek Forest BH
+search
+A careful search of the area reveals nothing.
+
+<400/400hp 170/170ma 62/138mv> xp:2678531 g:150130 ac:[-3.7] 10:12 pm The Greek Forest BH
+cast 'sense life'
+Ok.
+You feel your awareness improve.
+
+<400/400hp 165/170ma 66/138mv> xp:2678531 g:150130 ac:[-3.7] 10:22 pm The Greek Forest BH
+l
+Bend in the Stream
+   Deep, swirling pools stir behind an array of large, well-worn boulders 
+staggered throughout the stream.  Rushing water spills in swiftly from the 
+north.  The flow crashes against the steep, rocky southern embankment in a 
+fantastic display of white water before being diverted eastward.
+Exits: North  East  
+You sense a hidden life form in the room.
+
+<400/400hp 166/170ma 67/138mv> xp:2678531 g:150130 ac:[-3.7] 10:25 pm The Greek Forest BH
+autokill off
+Autokill mode is now off.
+
+<400/400hp 168/170ma 72/138mv> xp:2678531 g:150130 ac:[-3.7] 10:37 pm The Greek Forest BH
+hit all
+A large rainbow trout hates your guts!
+You pierce a large rainbow trout hard.
+
+A large rainbow trout is stunned, but will probably regain consciousness again.
+
+<400/400hp 170/170ma 130/138mv> xp:2685917 g:150145 ac:[-3.7] 2:13 am The Greek Forest BH
+A naiad utters the words, 'candusgugh yufz'
+A naiad utters the words, 'candusgugh yufz'
+
+<400/400hp 170/170ma 135/138mv> xp:2685917 g:150145 ac:[-3.7] 2:26 am The Greek Forest BH
+subd trout
+You expertly bind the unconscious form of a large rainbow trout.
+Total exp for kill is 1190.
+gt Total exp for kill is 1190.
+get trout
+You deftly snatch a subdued large rainbow trout.
+
+....
+
+<400/400hp 170/170ma 99/138mv> xp:2720632 g:150800 ac:[-0.7] 8:42 am The Greek Forest BH
+give trout guardian
+Ok.
+The Forest Guardian tells you 'Wonderful!  Oh, and what a absolutely 
+beautiful specimen you have returned with.  I will need to study this 
+creature in great detail to determine the health of the river.  Thank 
+you for your help, please take this small reward for your trouble.'
+You have gained two drachma.
+Saving Thlq.
+Saving items.

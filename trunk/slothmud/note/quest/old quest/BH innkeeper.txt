@@ -1,0 +1,16 @@
+The Innkeeper tells you 'Search the insane asylum and rid it of the unwanted roaches.  Your job will be complete when
+you can bring me back one the head of the queen.  How do you tell a queen roach from the
+others?  That's not so easy, but it can be done if you study the head hard enough.  The head
+of the queen is slightly bigger and more bulky then the normal roach.  Good luck on your
+quest, and I hope you are the right person to help fight the roach infestation before it
+ends up all over town.  Say, while you are there, feel free to explore the rest of the
+wonderful asylum.  It will help kill time while waiting for those roaches to pop their
+heads back out.
+'
+<257hp 86ma 96mv>Bal Harbor Town BH indoors 5:57 am
+give head innkeeper
+Ok.
+The Innkeeper tells you 'The Innkeeper tells you 'You really are a great exterminator for killing those big roaches off.  You deserve this reward.'
+You have gained 20 drachma.
+Saving Magelq.
+Saving items.

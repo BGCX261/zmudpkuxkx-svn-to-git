@@ -1,0 +1,17 @@
+<552hp 382ma 151mv>The Infirmary of Farlorne SS indoors 4:43 am
+You ask a sangoma about 'quest'.
+A sangoma tells you 'I am trying to brew a cure for disease, a (panacea).'
+<552hp 382ma 151mv>The Infirmary of Farlorne SS indoors 4:44 am
+
+<552hp 387ma 153mv>The Infirmary of Farlorne SS indoors 4:48 am
+ask sangoma about panacea
+You ask a sangoma about 'panacea'.
+A sangoma tells you 'I have come from a faraway land to share the healing knowledge of my '
+A sangoma tells you 'ancestors in an attempt to cure the horrible plague that is decimating '
+A sangoma tells you 'these dwarves.  With my magical bag of bones, perhaps I could find a cure.  '
+A sangoma tells you 'This cheap bag just is not doing the trick.  I need some help to find my '
+A sangoma tells you 'good bag.  Brave adventurer: will you help me?  '
+<552hp 392ma 155mv>The Infirmary of Farlorne SS indoors 4:54 am
+undertake panacea
+A sangoma tells you 'You don't need to sign up, just do it!'
+<552hp 400ma 158mv>The Infirmary of Farlorne SS indoors 5:04 am

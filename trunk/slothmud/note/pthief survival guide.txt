@@ -1,0 +1,106 @@
+Moving this to its own thread...
+
+I've debated publishing a pthief survival guide. I never seem to get to it. One
+of the things that I know got fixed was jail. If you jail a pthief, they're
+done, barring someone letting them out. You can only drop link while jailed, so
+they cannot bring on another char to thief with without becoming wipable. Given
+that a good number of imms will use almost any excuse to give a thief a bad day,
+it will effectly shut them down for a while. Webbing them in the street and
+waiting for the patrol to come by will do the trick. If you can charm the patrol
+leader, even better.
+
+They like to hide in safe areas. The easiest/safest way to give them a bad day
+is with a 40 Avatar Druid. Piasa can walk into any safe area and 'capture
+pthief' to excellent effect. Spells like acid shower can do the trick... careful
+of where you are though. Casting at the junk dealer or similar will get you dead
+very quickly. Some people like to play with charming agros, which is also
+somewhat dangerous.
+
+A common pthief trap is to have a large container in inventory with a couple
+filled water barrels in it. Assuming that it's not a th/wa pthief, the odds of
+them having decent strength without eq is pretty low. When the thief tries to
+snag the bag, he won't be able to lift it and automatically fails and becomes
+wanted, giving you a chance to pummel him. It also makes for a semi-safe place
+to keep items in inventory that you don't want to get snagged. I hear that
+buying the personal robes in the drach shop, like the cloak of specialization,
+makes for a good inventory container that can't be stolen... haven't tried that
+one though.
+
+Dealing with pthiefs can be dangerous. If you decide to actively hunt one, they
+may experiment with client-rape. If you don't know what that is, you're much
+more likely to fall victim to it. Be prepared for the pthief to figure out how
+to force you to remove all your equipment and give it to them.. or similar.
+Writing good scripts is important, or you might wish to turn them off
+altogether.
+
+Pthieves will also try to decieve you in any number of ways. They will emote
+that they have stolen from you, left the room, left the game, or any number of
+things. These are designed to slow you down, move you into a vulnerable area or
+let them escape.
+
+Pthieves make liberal use of the quit! command. Just when you think you have
+them, they'll be back at the west gate and running somewhere you're not.
+
+Pthieves know each other. If you manage to get a pthief into a bad position, he
+may enlist help to escape from jail, make you think they are multi-playing, and
+generally be a pain.
+
+Pthieves LOVE places like the BH auction house and scribe. These are commonly
+thought to be safe areas and are not, so you can be pushed out of them and be
+vulnerable to theft. If you do change equipment in these places, rest first, so
+that you can't be pushed out.
+
+Pthieves love to take advantage of small things. Like the fact you can't buy a
+raft on BH. It makes hiding in places like Crystal Falls much safer for them
+since you can't web, blind or blast them there and if you haven't got a raft,
+you'll have to figure out how to get one to persue them.
+
+Pthieves love to misdirect you. If a thief quits! and shows up at the west gate
+with a JJD being held, you might spend a lot of time wondering how he's allowed
+to do that. He's not. It's a cleverly crafted description designed to mislead
+you. So when you finally kill him and wonder why there's not a JJD on him...
+that's why.
+
+Pthieves love to flaunt their existance. Even if the thief sits in the inn for 4
+hours and doesn't manage to steal anything at all, they'll talk a big show. Let
+them talk. Its easy to tell when a pthief actually manages to get something,
+because they'll immediately log out and then log on another character to
+negotiate a price for the return of the item.
+
+A pthief will sell your item back to you in most cases. They will offer you a
+price, and you either pay it or you don't. If you don't, your item will be sold
+or given to someone else, or shipped to someone else who will either keep it or
+allow it to become unclaimed.
+
+Insulting a pthief isn't really practical. They already know and have been told
+everything you can possibly think of. Trying to taunt them simply won't work,
+you'll never suceed in provoking them because they are scum and have long since
+become comfortable with it. Really.
+
+The regen room in Treasures and Dreams is not safe in anyway, use at your own
+risk.
+
+Lower level characters are protected from theft for a while. Sloth protects
+newbies, and this is one of the things they are protected from. I don't know
+what level the protection expires, but it is less than 20.
+
+Coins are MUCH easier to steal than items. Sleeping people are much easier to
+steal from.
+
+Your corpse is sacred. Any pthief stealing anything from your corpse is wipable.
+Multiplaying is wipable. Stealing from someone in a group is legal... I think
+anyway... but they can't do anything to intentionally cluster your group, like
+web or recall your tank, or put the healo to sleep.
+
+I'm sure other can add more, but that's a decent start.
+
+Vixn wrote:
+1. they could give you lots of junk to screw up your redress alias. you find
+yourself sitting with full set of eq in your inverntory and next moment you'll
+be pwned.
+2. they will hide in dark places without light source. so when you gate in you
+will be kicked by Demo or someone like that.
+3. it's hard to steal from someone (even sleeping) if there is another person in
+the same room who don't sleep.
+
+just my 2 cents.

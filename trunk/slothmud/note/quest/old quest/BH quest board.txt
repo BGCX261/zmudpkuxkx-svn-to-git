@@ -1,0 +1,57 @@
+Bal Harbor - Scribe, Mayor
+Valk (Autumnal) - Treasure Seeker
+I'm not sure, but it seems the Religious Teacher at the Cholemry is also involved with a quest somehow
+School of Cholemry - Mister Schtuple (aka Brian) has several quests available. Go to Cholemry and hunt Brian and ask him about quests.<659hp 552ma 142mv>Bal 
+there is a new quest that even lowbies can do see bal harbor innkeeper for more info
+Prevent War Between BH and SS,  ask the Drexel Mayor for starters...<659hp 552ma 142mv>Bal Harbor Town(BH)
+Talk to Pholus in Greek Forest about a sacred_wine
+ask the lost traveler in matterhorn about bandersnatch
+See the pit master at the coliseum.
+See Narmer in Drexel
+See the meditator in SS town.
+Ask various mobs in the village of sheol.
+see Aukri in Akasha's Temple
+
+
+
+<662hp 596ma 105mv>The Coliseum BH indoors 4:06 pm
+ask pit about quest
+You ask The Pit Master about quest.
+The Pit Master tells you 'I received shipment of a new worker for the pits today.
+He requires an exotic_weapon.
+'
+<662hp 596ma 107mv>The Coliseum BH indoors 4:10 pm
+ask pit about exotic_weapon
+undertake exotic_weapon
+You ask The Pit Master about exotic_weapon.
+The Pit Master tells you 'Yes, that is what I need.  This new one is a berserker, and he cant seem
+to use any of our normal weapons effectively.
+'
+<662hp 596ma 115mv>The Coliseum BH indoors 4:30 pm
+The Pit Master tells you 'This berserker is of a clan that runs screaming into battle, wielding the tusks
+of a wereboar.  Such weapons may only be found where were-animals roam.  Find
+a weapon like this, and bring it to me.
+
+Chi -- 'okay you see the Count Boarish in Lycanthropia ?'
+Chi -- 'he is the mob that loads item for pit master'
+
+You grouptell: '*Druid* Total exp:71381.'
+<1435hp 236ma 151mv>
+You get wereboar tusks from the corpse of Count Boarish the Wereboar that's on the ground.
+<551hp 201ma 156mv>Lycanthropia BH indoors 7:27 pm
+
+i
+You are carrying:
+wereboar tusks
+<698hp 281ma 117mv>The Coliseum BH indoors 10:07 pm
+give tusks pit
+Ok.
+The Pit Master tells you 'Thank you.  Unfortunately, the first weaponless berserker was killed in an
+accident.  However, we should be receiving a replacement within days.
+I will save these tusks until then.  In the meantime enjoy the coliseum!
+'
+You have gained 20 drachma.
+Saving Islq.
+Saving items.
+<697hp 285ma 119mv>The Coliseum BH indoors 10:13 pm
+

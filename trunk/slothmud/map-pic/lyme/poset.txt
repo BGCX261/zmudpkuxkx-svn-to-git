@@ -1,0 +1,5 @@
+Need Water Breathing<BR>
+
+ene3n;open manhole;d5sd;open grill;3d5e2sesw;open gate;3sd;open gate;s;close gate
+
+Be sure to close the gate otherwise the mobs from Poseidon's Realm that hate sleepers will enter.

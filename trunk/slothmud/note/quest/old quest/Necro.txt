@@ -1,0 +1,12 @@
+Firkin -- 'get amulet from sarcophagus in catacombs and hand from coffin in bovaria graveyard'
+Firkin -- 'get wyldt to nchant'
+Firkin -- 'then give to someone'
+Firkin -- 'give to worenz at Dark- dreams - necro amulet and 10 drachma'
+
+You get an iron crowbar from the corpse of a shadowy figure that's on the ground.
+<558hp 284ma 142mv>Temple of Luna BH indoors 4:25 pm
+
+l sarcophagus
+open left panel
+open right panel
+open center panel

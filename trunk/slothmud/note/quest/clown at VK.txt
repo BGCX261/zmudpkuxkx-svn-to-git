@@ -1,0 +1,41 @@
+<400/400hp 82/172ma 158/158mv> xp:1677825 g:323391 ac:[-4.1] 4 o'clock am Fraternal Order of Clowns Vk
+ask clown about quest
+You ask the clown lord marshall about 'quest'.
+The clown lord marshall tells you 'I offer the quest 'succubus_capture' for 10 drachma.'
+
+<400/400hp 82/172ma 158/158mv> xp:1677825 g:323391 ac:[-4.1] 4:03 am Fraternal Order of Clowns Vk
+Corteo the giant arrives from the east.
+
+<400/400hp 83/172ma 158/158mv> xp:1677825 g:323391 ac:[-4.1] 4:07 am Fraternal Order of Clowns Vk
+ask clown about succubus_capture
+You ask Corteo the giant about 'succubus_capture'.
+Corteo the giant tells you 'Sorry, I don't know anything about that.'
+
+<400/400hp 85/172ma 158/158mv> xp:1677825 g:323391 ac:[-4.1] 4:17 am Fraternal Order of Clowns Vk
+undertake succubus_capture
+The clown lord marshall tells you 'We have captured a young succubus in the compound and another more'
+The clown lord marshall tells you 'powerful one has set up house in the Temple of Juggleblood under'
+The clown lord marshall tells you 'the compound. Bring it to me alive.'
+
+<400/400hp 88/172ma 158/158mv> xp:1677825 g:323391 ac:[-4.1] 4:34 am Fraternal Order of Clowns Vk
+
+Mathmalcom tells you 'say open trapdoor'
+
+
+You pierce a succubus very hard.
+A succubus is stunned, but will probably regain consciousness again.
+
+<316/400hp 61/172ma 158/158mv> xp:1691774 g:323391 ac:[-7.3] 8:31 am Fraternal Order of Clowns Vk
+subdue succ
+You expertly bind the unconscious form of a succubus.
+Total exp for kill is 107422.
+gt Total exp for kill is 107422.
+
+
+give succubus lord
+Ok.
+The clown lord marshall tells you 'Thank goodness, you have rid us of this evil presence!
+'
+You have gained ten drachma.
+Saving Thlq.
+Saving items.

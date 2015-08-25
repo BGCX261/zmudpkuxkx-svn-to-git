@@ -1,0 +1,59 @@
+Firkin tells you 'nod - better shocked than dead tho'
+Firkin tells you 'wnt to castle black after u left and got hammered'
+You tell Firkin 'u try to pop the triple attack sb?'
+Firkin tells you 'quest one_so_bold'
+You tell Firkin 'who did u get that quest from?'
+Firkin tells you 'immigration officer aisholm'
+You tell Firkin 'nod'
+Firkin tells you 'get key from Dragoon commander'
+Southern End of the Longhouse
+Exits: North  East
+A small sign is on the wall here.
+You see Aisholm's immigration officer here.
+<659hp 552ma 147mv>Aisholm Town(Ah)
+Stormshadow -- ' *Cobra*  ask imm about...'
+<659hp 552ma 148mv>Aisholm Town(Ah)
+ask imm about quest
+You ask Aisholm's immigration officer about quest.
+Aisholm's immigration officer tells you 'This was once such a peaceful town, but lately, the place has been
+swarming with illegal aliens.  I wish someone could help put a stop to
+this.  Would you know of one_so_bold?
+'
+<659hp 552ma 151mv>Aisholm Town(Ah)
+ask imm about one_so_bold
+You ask Aisholm's immigration officer about one_so_bold.
+Aisholm's immigration officer tells you 'The Dragoons of Castle Black have organized an operation to smuggle
+non-citizens into Aisholm from some of the lesser areas of the realm.  The
+aliens are then taken advantage of as slaves, and a whole industry has
+grown up around their cheap labor.  *sigh* A new brothel full of such
+slaves springs up in our town daily, it seems.
+'
+<659hp 552ma 151mv>Aisholm Town(Ah)
+undertake one_so_bold
+Aisholm's immigration officer tells you 'I need your help to infiltrate the commanders quarters in Castle Black,
+and to steal his key.  Return this key to me so that my immigration
+officers can storm the High Tower to break up their wretched human
+smuggling ring!
+'
+<659hp 552ma 151mv>Aisholm Town(Ah)
+
+Southern End of the Longhouse
+Exits: North  East
+A small sign is on the wall here.
+You see Stormshadow here.
+You also see Aisholm's immigration officer here.
+<556hp 97ma 140mv>Aisholm Town(Ah)
+Stormshadow sits down and rests.
+<556hp 100ma 141mv>Aisholm Town(Ah)
+give key imm
+Ok.
+Aisholm's immigration officer tells you 'Well done, bold one!  Several of my officers have already infiltrated
+the castle, and with this key, we are now ready to put a stop to the
+scurrilous actions of the Dragoons.  The good folk of our town are in your
+debt.  Please accept this reward, and the secret knowledge that one so bold
+as thee may be needed for another quest west of Settlestone.  Find the dark
+wanderer, and ask him about his blood_letting_basin.  Go now and may the
+speed of the immortals be with you!
+'
+You have gained five drachma.
+You have been awarded 150000 experience points!

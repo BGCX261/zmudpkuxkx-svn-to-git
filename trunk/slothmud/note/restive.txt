@@ -1,0 +1,22 @@
+[40t 40c 40o 40m 36a] Restive [[[KFC]]]
+Restive -- '18/38 9 18 18 15'
+
+Restive is using:
+<used as light>      a pearl of the rising tide
+<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+<worn around neck>   a silver spider brooch (with a purple minidemon brooch attached to it)
+<worn around neck>   a silver spider brooch (with a red minidemon brooch attached to it)
+<worn on body>       a suit of skeletal armor..It has a soft glowing aura! (with a single-striped white sash (Private) attached to it)
+<worn on head>       a prison guard helmet (with a reddish-colored glass eye attached to it)
+<worn on legs>       volcanic plates..It has a soft glowing aura!
+<worn on feet>       black demonskin boots..It emits a faint humming sound!
+<worn on hands>      a pair of silver gauntlets
+<worn on arms>       sleeves of molten lava..It has a soft glowing aura! (with a leather phylactery attached to it)
+<worn as shield>     a great shield of flame..It has a soft glowing aura!
+<worn about body>    Cloak of Specialization..It emits a faint humming sound!
+<worn about waist>   Tooled Girdle of Ogre Kings
+<worn around wrist>  an ashen bracelet
+<worn around wrist>  a black opal bracelet
+<wielded>            a thunderbolt..It emits a faint humming sound!
+<held>               Arcane Tome of Power..It emits a faint humming sound!

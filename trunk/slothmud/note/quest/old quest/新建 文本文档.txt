@@ -1,0 +1,260 @@
+Draka -- 'maybe youve done it? the zodiac quest'
+Stun -- 'not yet'
+Stun -- 'havent done any quest'
+You grouptell: '*Druid* zodiac? not yest'
+You grouptell: '*Druid* lol stun'
+Draka -- 'wives in zodiac?'
+
+Stun -- 'just kill the native cook, get the ribs'
+can buy ribs from the cook
+Stun -- 'give it to king granite'
+
+Firkin tells you 'ss grylyns'
+Firkin tells you 'ss grylyns new bioe area'
+<662hp 600ma 171mv>Grymlyns SS indoors 4:33 am
+ask king about food
+You ask the grymlyn king about food.
+The grymlyn king tells you 'Food is something I don't get much of anymore now that I have been imprisioned.'
+<662hp 600ma 171mv>Grymlyns SS indoors 4:41 am
+undertake food
+The grymlyn king tells you 'Sail to the island and visit the native cook.  I hear he makes a mean tasting rack of
+beef ribs.  If you bring me back some of these highly sought after ribs, I would be
+in your debt forever.  After all, the ones who imprisoned me here sure don't give
+me much more then a few slices bread and some water every couple days.  Go now and
+bring me some real food, before I decide to start gnawing on you.
+'
+<662hp 600ma 171mv>Grymlyns SS indoors 4:48 am
+
+<662hp 600ma 171mv>Grymlyns SS indoors 4:51 am
+give ribs king
+Ok.
+The grymlyn king tells you 'Ahhh, thank you very much, I am forever in your debt.  I hope this helps you out some. '
+The grymlyn king gives you the blessing of a god.
+You have gained 20 drachma.
+Saving Islq.
+Saving items.
+<662hp 600ma 171mv>Grymlyns SS indoors 4:53 am
+
+
+
+You ask Himloch's wife about quest.
+Himloch's wife tells you 'Destroy the foulness'
+<668hp 546ma 127mv>Castle Zodiac II Ah indoors 3:06 am
+
+ask wife about foulness
+You ask Himloch's wife about foulness.
+Himloch's wife tells you 'A foulness has taken roost in the lands to
+the southeast of Aisholm.  This hideous beast is known to have kidnapped
+hundreds of victims and is suspected by the superstitious of taking them
+to the underworld (personally, I don't believe there is such a place,
+but let's face it - people have been disappearing!)  Find her and kill her
+for me, and you will be amply rewarded.'
+<670hp 546ma 136mv>Castle Zodiac II Ah indoors 3:28 am
+
+undertake foulness
+Himloch's wife tells you 'Thank you for your help, my brave adventurer!
+Though you may die many times over for your strange sense of bold duty,
+I'm sure eventually you'll find your way to help me with those under my
+care. Just remember... I need you not only to find this evil scourge,
+but also to kill her.
+'
+<672hp 546ma 146mv>Castle Zodiac II Ah indoors 3:50 am
+
+kill the harpy at highlands(AH) (must type 'kill harpy',u can just type it and recall)
+
+Himloch's wife tells you 'Here, take this eagle's wing dust as a reward.  May it serve you well.'
+Himloch's wife gives you the dust from an eagle's wing.
+You have gained ten drachma.
+Saving Islq.
+Saving items.
+
+
+ask wife about quest
+You ask Phenmemalin's wife about quest.
+Phenmemalin's wife tells you 'My hushbin needsh more booksh!'
+<576hp 217ma 89mv>Castle Zodiac II Ah indoors 1:55 pm
+Phenmemalin's wife giggles uncontrollably.
+<576hp 220ma 90mv>Castle Zodiac II Ah indoors 1:59 pm
+ask wife about booksh
+You ask Phenmemalin's wife about booksh.
+Phenmemalin's wife tells you 'It'sh not like the lazy bashtard ever doesh anything around
+the housh, now izzit?  I mean, all I want to do ish enjoy some of the power
+we've put together after all the yearsh, but no, he just stays buried in thoshe
+damned booksh of hish.  Ish a little wine too much to ashk?  Maybe if you can
+find shomething to keep hish mind occupied, he won't mind if I jusht keep
+drinking... Try asking around in schools and other pla-shes of learning,
+you might jusht find what I need.'
+<577hp 223ma 92mv>Castle Zodiac II Ah indoors 2:03 pm
+Phenmemalin's wife stares at you cross-eyed while bobbing her head.
+<578hp 228ma 94mv>Castle Zodiac II Ah indoors 2:09 pm
+undertake booksh
+Phenmemalin's wife tells you 'You mean you're actually going to help me?  Whee, I can keep drinking!  Hey,
+you know what really rocksh my hushbin'sh world?  Really arcane booksh.
+The odd stuff.  Giberish if you ashk me, but then, I'm a drunk, aren't I?'
+<578hp 230ma 95mv>Castle Zodiac II Ah indoors 2:11 pm
+
+pop 'a book of arcane knowledge' from the 'court reporter' at Judge's temp(AH) 2n2e3se2s from recall
+
+i
+You are carrying:
+a book of arcane knowledge
+<579hp 232ma 97mv>Castle Zodiac II Ah indoors 2:14 pm
+The master mage Himloch arrives from the west.
+<579hp 233ma 97mv>Castle Zodiac II Ah indoors 2:15 pm
+Phenmemalin's wife giggles uncontrollably.
+<580hp 236ma 99mv>Castle Zodiac II Ah indoors 2:19 pm
+give arcane wife
+Ok.
+Phenmemalin's wife tells you 'Oh, thish ish jusht purr-fect!  Here, have thish other book in return, it might
+help you wish shomething elshe later.'
+Phenmemalin's wife gives you a mystical book.
+You have gained ten drachma.
+Saving Islq.
+Saving items.
+<580hp 238ma 99mv>Castle Zodiac II Ah indoors 2:22 pm
+
+
+
+
+Guest Bedroom
+Exits: South  Down
+You see Mennalen's wife, a neophyte mage, and an elven dignitary here.
+<662hp 244ma 126mv>Castle Zodiac II Ah indoors 7:48 pm
+ask wife about quest
+You ask Mennalen's wife about quest.
+Mennalen's wife tells you 'I need someone to cause a disturbance among the elves.'
+<662hp 245ma 127mv>Castle Zodiac II Ah indoors 7:49 pm
+ask wife about disturbance
+You ask Mennalen's wife about disturbance.
+Mennalen's wife tells you 'My husband and I make our fine magic by use of some elvish
+secrets. To keep up with the elves, though, we need someone to go
+cause a disturbance in the realm outside the Tower of Chaeston.  While
+you're creating that diversion, we can steal the knowledge we need.  Why
+else would we allow the heathen elf upstairs to stay in our house, if
+not to spy on their techniques?'
+<662hp 257ma 133mv>Castle Zodiac II Ah indoors 8:03 pm
+undertake disturbance
+Alas, you cannot go that way...
+<662hp 271ma 138mv>Castle Zodiac II Ah indoors 8:21 pm
+Mennalen's wife tells you 'Find out what it is that the elven guards fear the most, and
+act on that fear.  I understand that one of them may be more susceptible than the others.'
+<662hp 272ma 138mv>Castle Zodiac II Ah indoors 8:21 pm
+
+Chi[degenerates]> 'you'll need to cast a spell at the guard 3e of fallon'
+Chi[degenerates]> 'and then return ot her'
+
+cast 'control weather' worse
+
+<575hp 445ma 100mv>Chaeston Tower Ah overcast 8:02 pm
+You are hit by a stream of acid from the west!
+
+<546hp 452ma 103mv>Chaeston Tower Ah overcast 8:08 pm
+cast 'control weather' worse
+Your magic causes the skies to grow gloomy.
+Ok.
+<547hp 434ma 106mv>Chaeston Tower Ah overcast 8:15 pm
+You are hit by a stream of acid from the west!
+
+<520hp 438ma 107mv>Chaeston Tower Ah overcast 8:18 pm
+Polk gossips-- 'i can raise'
+<520hp 439ma 108mv>Chaeston Tower Ah overcast 8:19 pm
+cast 'control weather' worse
+Ok.
+<520hp 416ma 108mv>Chaeston Tower Ah overcast 8:21 pm
+
+
+Guest Washroom
+Exits: North
+You see Mennalen's wife and The master mage Mennalen here.
+<557hp 123ma 92mv>Castle Zodiac II Ah indoors 2:11 am
+Mennalen's wife tells you 'Congratulations, you have completed the quest 'disturbance'!'
+Mennalen's wife gives you a symbol of elven life force.
+You have gained ten drachma.
+Saving Islq.
+Saving items.
+
+
+Islq[degenerates]> 'is there four quests at zodiac and will get 4 item?'
+Chi[degenerates]> 'nosd'
+Chi[degenerates]> 'hold on islq'
+Islq[degenerates]> 'i finish 3'
+Chi[degenerates]> 'which do u have ?'
+Islq[degenerates]> 'let me have a look'
+Islq[degenerates]> 'symbole,mystical book,and dust from wing'
+Chi[degenerates]> 'okay if you take a look at ma[p'
+Chi[degenerates]> 'take a look at zodiac map'
+Chi[degenerates]> 'and tell me if you see a trapdoor on the southest side on the map'
+Islq[degenerates]> 'yup,see it'
+Chi[degenerates]> 'okay, d of trapdoor'
+Chi[degenerates]> 'there should be something you can collect there, go and do it'
+Chi[degenerates]> 'should be able to collect a stone casket'
+Chi[degenerates]> 'then you have to go to barkeep to the far north'
+Chi[degenerates]> 'then give the casket to him'
+Chi[degenerates]> 'then he will give you back an item'
+Chi[degenerates]> 'with 4 items, go to mage and forge drum'
+Chi[degenerates]> 'then return drum to him for 25 drachma'
+Chi[degenerates]> 'understand >'
+
+
+Kitchen
+Exits: North  West  Down
+<662hp 560ma 168mv>Castle Zodiac II Ah indoors 9:44 pm
+d
+Basement
+Exits: West  Up
+You see Herrohin's wife here.
+<662hp 562ma 168mv>Castle Zodiac II Ah indoors 9:46 pm
+w
+Wine Cellar
+Exits: East
+A tightly-sealed casket sloshes when tipped.
+You see a neophyte mage here.
+<662hp 565ma 168mv>Castle Zodiac II Ah indoors 9:50 pm
+get all
+You pick up a stone wine casket.
+OK.
+<662hp 569ma 170mv>Castle Zodiac II Ah indoors 9:54 pm
+
+
+The Borealic Tavern
+   Tonight the tavern is full of dregs of society.  Everyone is standing
+around, wrapped in ragged clothes or the occasional furskin of one of the
+indiginous creatures that lurk just outside the camp's boundaries.  The
+drinks are plentiful, and there is a band set up in the corner, trying to
+manage strange looking instruments, but simply add to the ruckus.  There is
+a bar off to the left, with a pretty nasty looking barkeep blocking a latched
+door where many lowlifes of this society seem to be lured.
+Exits: West
+(Brilliant Red Aura) A contemptuous man stealthily approaches you from behind.
+The bartender walks up and down the bar, filling drinks and cracking jokes.
+<662hp 502ma 94mv>Diabolan Valley Ah indoors 5:53 am
+l barkee
+A burly man, the bartender is very muscular and powerful, yet there is a
+distinct layer of fat hiding much of his muscle tone.  His shirt is covered
+with stains from spilled drinks, some crimson stains from unruly patrons, and
+even a few stains from a drunkard's vomit.  He seems very interested in the
+stories that the people tell him, yet his eyes are always on the look for the
+imminent spark of trouble.
+The Barkeep is a member of the races of man.
+The Barkeep is in excellent condition.
+<662hp 506ma 96mv>Diabolan Valley Ah indoors 5:58 am
+give casket barkeep
+Ok.
+The Barkeep tells you 'Ah, thank you for bringing this!  I was
+beginning to wonder if Master Herrohin had completely forgotten his promise
+to have this delivered!  Here, have a nice reward for your troubles - I'm sure
+you've earned it.'
+The Barkeep gives you an empty stone casket.
+You have gained ten drachma.
+Saving Islq.
+Saving items.
+<662hp 509ma 97mv>Diabolan Valley Ah indoors 6:01 am
+ctalk done,+10 drachma, thanks for help :)
+Islq[degenerates]> 'done,+10 drachma, thanks for help :)'
+<662hp 541ma 113mv>Diabolan Valley Ah indoors 6:40 am
+
+look for the mage at dark tower
+forge drum
+and give drum mage
+gain 25 D and 250k XP
+

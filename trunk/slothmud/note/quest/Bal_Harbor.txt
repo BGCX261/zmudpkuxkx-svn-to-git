@@ -1,0 +1,98 @@
+
+<791/791hp 109/269ma 134/202mv> xp:75994079 g:1241755 ac:[-8.0] 5:15 am The Town of Drexel
+You ask the mayor of drexel about 'quest'.
+The mayor of drexel tells you 'My elites have reported (Bal_Harbor) is very unsettled lately.'
+
+<791/791hp 110/269ma 136/202mv> xp:75994079 g:1241755 ac:[-8.0] 5:20 am The Town of Drexel
+You ask the mayor of drexel about 'Bal_Harbor'.
+The mayor of drexel tells you 'I know the Mayor Galio is on edge lately, but what do you expect with all that is going on in his fair city.'
+
+<791/791hp 121/269ma 154/202mv> xp:75994079 g:1241755 ac:[-8.0] 6:06 am The Town of Drexel
+The mayor of drexel tells you 'It seems Mayor Galio is very unsure if the peace agreement between Bal Harbor and'
+The mayor of drexel tells you 'Settlestone will last much longer.  I have offered Mayor Galio my men to support'
+The mayor of drexel tells you 'him and Bal Harbor if things turn to war, but I myself, sure hope another way can'
+The mayor of drexel tells you 'be found to keep the current relations as they are.  It would really be a shame '
+The mayor of drexel tells you 'to see these two great continents end up in a war over.  Maybe you can talk to Mayor'
+The mayor of drexel tells you 'Galio and see if there is anything you can do to help keep a state of peace between '
+The mayor of drexel tells you 'Bal Harbor and Settlestone.  Seek the mayor out, and ask him if he might have a mission'
+The mayor of drexel tells you 'for you.  This is not something you have to do, but we all would be in your debt if you'
+The mayor of drexel tells you 'are able to help us out.  I have even provided a great reward to the Mayor for anyone'
+The mayor of drexel tells you 'that can help us out in this crisis.'
+
+<791/791hp 123/269ma 157/202mv> xp:75994079 g:1241755 ac:[-8.0] 6:15 am The Town of Drexel
+
+
+<791/791hp 131/269ma 190/202mv> xp:75994079 g:1241755 ac:[-8.0] 9:18 am Bal Harbor Town
+You ask Mayor Galio about 'mission'.
+Mayor Galio tells you 'Oh, you are interested in helping keep the peace between our city and Settlestone?  '
+
+<791/791hp 137/269ma 200/202mv> xp:75994079 g:1241755 ac:[-8.0] 9:45 am Bal Harbor Town
+undertake mission
+<791/791hp 176/269ma 202/202mv> xp:75994079 g:1241755 ac:[-8.0] 12:32 pm Bal Harbor Town
+Mayor Galio tells you 'The dwarves have requested that we send a missionary to speak with them.  I myself fear'
+Mayor Galio tells you 'this may be a setup and lead to the death of one of our people, so I am reluctant in'
+Mayor Galio tells you 'sending anyone.  If you are sure you wish to take your chances and go, I won't stop you'
+Mayor Galio tells you 'but I will warn you, this could be sure death to you!  If you really wish to go, seek out'
+Mayor Galio tells you 'the member of the dwarven society that was choose to represent them in this meeting.  He '
+Mayor Galio tells you 'is a well known healer and learned in all aspects of life and peace keeping.  I hear'
+Mayor Galio tells you 'he has his own guild there in Settlestone, so surely you will find nearby his guild.'
+Mayor Galio tells you 'Talk to him, let him know you are on a mission for me!  Find out what you can, and '
+Mayor Galio tells you 'see if there is anyway to resolve the possibility of us going to war with the dwarves.'
+Mayor Galio tells you 'After all, our friendship has been long lasting, and they have been one of our trusted '
+Mayor Galio tells you 'allies for many moons.'
+
+<791/791hp 177/269ma 202/202mv> xp:75994079 g:1241755 ac:[-8.0] 12:34 pm Bal Harbor Town
+
+Ask tells you 'you pop dwarvish artifact from sash commander and give to galio'
+Ask tells you 'and give dwarvish symbol of peace to Mayor galio'
+
+
+<791/791hp 216/269ma 202/202mv> xp:78269514 g:1378644 ac:[-8.0] 6:34 am Settlestone
+You ask the Learned Healer about 'Galio'.
+The Learned Healer tells you 'Oh, you're the one healer Galio sent!  Well you don't look very trustworthy to me, but I don't trust many!'
+
+<791/791hp 219/269ma 202/202mv> xp:78269514 g:1378644 ac:[-8.0] 6:48 am Settlestone
+The Learned Healer tells you 'Well since Galio trusts you, I suppose I can discuss the current issues with you.  You'
+The Learned Healer tells you 'see, someone from Bal harbor has taken a sacred artifact of ours.  This artifact is '
+The Learned Healer tells you 'very powerful and can result in the annihilation of the dwarven people.  We fear that'
+The Learned Healer tells you 'is just what the citizen's of Bal Harbor would like to see, and the reason the artifact'
+The Learned Healer tells you 'was taken.  How dare you assume it wasn't someone from Bal Harbor!  I should have your '
+The Learned Healer tells you 'head removed for that.  We have proof!  It was the leader of Bal Harbor's red sash'
+The Learned Healer tells you 'brigade!  We are sure he took our artifact, and know his plans!  You really want to'
+The Learned Healer tells you 'help resolve this?  Get the artifact from him, and return it to us!  What does this'
+The Learned Healer tells you 'artifact look like?  Well you will know it when you see it!  How does it work?  Why,'
+The Learned Healer tells you 'planing to use it to wipe out the dwarves?  You really don't expect me to answer a'
+The Learned Healer tells you 'question like that, now do you?  Now leave me alone, I have a lot of work to do!'
+
+<791/791hp 225/269ma 202/202mv> xp:78269514 g:1378644 ac:[-8.0] 7:14 am Settlestone
+
+The Red Sash Commander is dead! R.I.P.
+Total exp for kill is 81381.
+Your blood freezes as you hear the Red Sash Commander's death cry.
+You get a great dwarvish artifact from the corpse of the Red Sash Commander that's on the ground.
+You get gold coins from the corpse of the Red Sash Commander that's on the ground.
+There were 1092 coins.
+
+<793/793hp 224/271ma 188/202mv> xp:81253540 g:374557 ac:[-8.0] 9:37 am Bal Harbor Town
+
+<793/793hp 271/271ma 202/202mv> xp:81253540 g:374557 ac:[-8.0] 2:03 pm Settlestone
+Ok.
+The Learned Healer tells you 'Well I was right afterall!  To show the Mayor Galio we hold no grudges, please give him this symbol of peace.  '
+The Learned Healer gives you a dwarvish symbol of peace.
+Saving Thlq.
+Saving items.
+
+<793/793hp 271/271ma 202/202mv> xp:81253540 g:374557 ac:[-8.0] 2:09 pm Settlestone
+
+
+<793/793hp 194/271ma 202/202mv> xp:81253540 g:374557 ac:[-8.0] 3:54 pm Bal Harbor Town
+Ok.
+Mayor Galio tells you 'Great, our allegiance with Settlestone will continue peacefully.  Here is the reward the Drexel mayor put up.'
+Mayor Galio gives you 250000 gold coins.
+You have gained 15 drachma.
+Saving Thlq.
+Saving items.
+
+<793/793hp 195/271ma 202/202mv> xp:81253540 g:624557 ac:[-8.0] 3:59 pm Bal Harbor Town
+
+

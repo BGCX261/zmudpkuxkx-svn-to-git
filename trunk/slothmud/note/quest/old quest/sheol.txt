@@ -1,0 +1,35 @@
+ask vyutak about power
+
+<662hp 596ma 87mv>Cemetery of Sheol Ah overcast 3:33 am
+You ask Vyutak, the deathmaster about power.
+Vyutak, the deathmaster tells you 'I have created the ultimate golem,
+one that lives off the energy of departed spirits.  However, my
+calculations proved faulty.  The jewel that I chose to supply power to my
+creation was not strong enough to sustain it.  It is already necessary to
+replenish the power supply.'
+<662hp 596ma 87mv>Cemetery of Sheol Ah overcast 3:34 am
+undertake power
+Vyutak, the deathmaster tells you 'The jewel I first chose to power
+my construct was too weak.  However, I have heard of a jewel as black as
+night that imbues one with the strength of several men.  Bring me this
+fabled jewel so that I can replinish the power of my creation.'
+<662hp 596ma 88mv>Cemetery of Sheol Ah overcast 3:39 am
+Firkin gives a black heart jewel to Vyutak, the deathmaster.
+<662hp 596ma 89mv>Cemetery of Sheol Ah overcast 3:50 am
+gt got it
+You grouptell: '*Druid* got it'
+
+pop the heart from darkness at catacombs
+
+<662hp 596ma 89mv>Cemetery of Sheol Ah overcast 3:51 am
+give heart vyutak
+Firkin -- 'nod'
+<662hp 596ma 89mv>Cemetery of Sheol Ah overcast 3:57 am
+Ok.
+Vyutak, the deathmaster tells you 'This is truly grand, now my creation
+will fullfill its greatest potential.  Oh, here, these petty coins are of
+no use to me.'
+You have gained 15 drachma.
+Saving Islq.
+Saving items.
+<662hp 596ma 89mv>Cemetery of Sheol Ah overcast 3:58 am

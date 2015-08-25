@@ -1,0 +1,22 @@
+Components List and Instructions for
+Celestial Bracelet
+Cost: 75000
+Forged by: Master of the Forge in Star City
+Wrist 
+Item Name Found on Mobile In Area Armor Class Affects Restriction 
+Celestial Bracelet   Star City -0.0 +1 Dam AdT AdW AdBa AdMo [OR] Forged 
+Original forge instructions:
+The papyrus the scroll was created from is extremely fragile. The ink, 
+although dim, is still quite legible. It appears to be a list of some 
+sort. A chunk of marble, a crystal star, a bead and a gem. Use the 
+marble as a base, infused with the amber bead. Place the gem in the 
+most powerful position, so the star can feed off the energy. Remember 
+to string it in the correct order, lest it will explode.
+
+Components:
+Item Name Found on Mobile In Area 
+Star Shaped Crystal Homam Star City 
+Celestial Bead Rasalas Star City 
+Immense Gem Rastaban Star City 
+Scion of Marble Aladfar Star City 
+ 

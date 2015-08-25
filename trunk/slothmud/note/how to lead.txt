@@ -1,0 +1,260 @@
+Some of the lower levels on Valk aren't too difficult to solo, depending on your
+classo and knowledge, but as you get up in levels, odds are that you'll want to
+group. Among the many reasons for this, it's simply easier to specialize and
+take advantage of everyone's various strengths than to try to do everything
+yourself. Also, with a well formed group, you actually eliminate the need to
+regen and get more xp per mob than you could get on your own, and in a shorter
+time.
+
+Lately, I haven't seen a shortage of leaders, but I have seen a lot of newbies
+who aren't familiar with what's needed in a group. This will try to go over the
+basics.
+
+2-man groups:
+
+Stab/blast - These are some of the most fun, and deadly. Focus is on doing lots
+and lots of damage as quickly as possible. Typically one will lead with stab or
+grip and the other will blast immediately. Requirements are a stabber and a
+blaster. The stabber will typically have high thief or monk levels, and some
+combination of double stab, poison, focus, kensai, etc. The blaster will have a
+high damage blasting spell such as firewind, or frostbolt. Area knowledge is key
+or you'll look like a penny on a railroad track.
+
+Blast/blast - Variation of stab/blast with 2 mana types. Can also be fun.
+
+Tank/tank - Very old school method... This falls into the bigger is better
+category. Basically, two tanks smash on the same thing. When one is getting
+close to death, he drops protect and the other rescues and protects him. Both
+must have decent armor class for this to work. It's also helpful, but not always
+required for the one in back to be able to either deal a lot of damage, use
+debuffing spells like curse and blind, heal, or all of the above.
+
+Tank/debuffer - My personal favorite, but very hard to 2-man. Tank is usually a
+warrior-type, but can actually be any classo as long as they have low AC and
+protect, a whiner and rescue script are also very helpful. Debuffer usually has
+blind at a minimum, but ideally has curse/damn, blind/acid blast, sanc/aegis,
+web, weaken, cure/heal/restore, infuse and pretty much any other spell that can
+be useful in battle. Disengage is also handy for reblinds and resancs. The
+debuffer actually does the brunt of the work and a good one can make for a very
+successful group. Also, it helps if the debuffer is a manabag since masterfuls
+are determined by the total number of casting levels. BTW, these are also some
+of the most underappreciated chars in the game... and some of the most talented.
+
+Larger groups
+
+Most larger groups are just extensions of the above. A stab/blast or blast/blast
+can add as many blasters as necessary... killing power goes up. Tank/tank group
+get bigger with more tanks, but this almost never happens since it's not a very
+practical group and will normally switch over to a tank/debuffer with more
+followers. So the rest of this will just explain how to run a large group.
+
+If you're running an xp or equipment group, this is most likely the kind of
+group you'll have. I'll try to outline the elements needed and how they should
+fit.
+
+Leader - Hopefully you. There's no real requirement for who leads, though
+hopefully it's someone who knows what your group is capable of and the area
+you're running. If the leader sucks, chances are the group will as well, since
+it's VERY difficult to overcome a poor leader. This person is generally
+reposible for deciding who does what, navigating, setting targets, watching the
+healo's mana, and fixing anything that goes wrong.
+
+Tank - Easiest job going. Needs a low AC. Figure -5 to -7 by level 20, -8 by
+level 40, -9 by 2x40 and -10 by 3x40. It helps to have a tank that's on their
+toes, but it's really not required if they have a whiner and a rescue script.
+Why? Because if anything goes wrong, it's their job to stand there and die
+first.... so it helps to be suicidal.
+
+Healo - This can make or break a lot of groups. I've had to call quite a few
+groups because I just couldn't get the mana I needed to run. Main job is to keep
+the tank alive and lit.... and maybe raise if something goes wrong. Good friends
+to have.
+
+Goto - This is a term I kind of made up, but I think it's important to outline
+it here. A lot of things happen in a group. Among them, different blind times,
+sanc times, and different debuffing requirements for mobs. The goto is the
+person I usually assign to keep things working. They're responsible for
+relighting the tank, reblinding mobs, silence if it's needed, etc. ie. If it
+needs to be fixed, I goto them to do it. Blind and sanctuary are pretty much
+requirements. Disengage is very handy, silence, dispel magic, curse/damn, and
+anything else useful is very nice. I generally keep them at the bottom of the
+group so they don't get sucked into battle as much, they're last on the healo,
+and they're pretty much the most important member of the group. This person may
+be the healo, and sometimes the leader, but almost never the tank.
+
+Optional:
+
+Necros - Weaken is a great spell. Wall of flesh can be very handy. Infusions can
+come in very handy when things suddenly go wrong. Jujus and other summons can
+come in very handy if you're missing some of the other elements of the group...
+like hitters and debuffers. Not strictly required for a group... but very very
+handy.
+
+Hitters - Depending on the size of the mobs you're taking, hitters become
+important. Since the tank is probably parrying and mana types hit poorly and
+have few attacks, you need someone to damage the mobs. Monks and warriors are
+generally the best since they have lots of attacks, lots of damage and low AC.
+They will also normally double as 2.tanks and 3.tanks depending on the size of
+the mob and their AC.
+
+Blasters - If you're fighting an ether mob or have a mob fully debuffed and he's
+still pounding the tank, you need to do as much damage as fast as you can.
+Nothing beats a mage. Also helpful for taking out summoned helpers during
+battle. And when they're not blasting, they're useful for dispeling casting
+mobs, debuffing, silencing, healing.... etc.
+
+Bards - If you've got a lot of hitters in the group, nothing beats a bard for
+speeding a group up. Brother in Arms/Valor can make stabs/grips land more often,
+Gods of War can turn mobs into mincemeat, Dreams of the Castle can cut regen
+times, Psalm of Disciple can help keep the tank alive and Cry of the Avatars can
+make a lot of problems go away.
+
+Stabber/Gripper - Depending on the mob, these can be handy. Nothing beats a
+thief for outright damage. Combined with deathblow and bards, you can cut a lot
+of mobs to shreds very quickly. Thieves are also handy for searching for caches
+and disarming those pesky traps. Grippers don't do quite as much damage but they
+do hold the mob in place for a while and, more importantly, lower the mobs
+hitroll. There's a lot of mobs whose hitroll is high enough that they must be
+completely debuffed before they stop pounding the tank. If this is the case, I
+will almost always lead with grip so I have some protection while the mob is
+being blinded. Properly used, it's a lifesaving tactic.
+
+Typically, your group will be setup like this:
+
+Leader is leading 'Group (Open)' on Sloth:
+(Xx x.xx) Leader
+(Wa x.xx) Tank
+(Wa x.xx) 2.Tank/Hitter (optional)
+(Th x.xx) 3.Tank/Hitter/Stabber/Gripper (optional)
+(Xx x.xx) Necro/Bard/Hitter (optional)
+...more Necro/Bard/Hitters...
+(Cl x.xx) Healo
+...more Healos...
+(Ma x.xx) Blasters (optional, may double as Healos)
+...more Blasters...
+(Xx x.xx) Goto
+(Xx x.xx) Non-Protectors (if any)
+
+The main requirements for determining this list will be armor class, though you
+may move folks around based on their jobs and abilities. When battle starts, you
+don't want to have people tripping over each other, so it's normally best to
+have certain jobs assigned. ie.
+
+Before battle starts:
+Protects - Make sure everyone is protected
+Tank - Let people know who to heal
+Healo - Heals are expensive, avoid overhealing, keep tank alive
+Stabber/Gripper - You only get one opening move, make it count
+Curse/Damner - Expensive spells, only cast once, Damn better than Curse
+Webber - Will normally be tank, also expensive
+Sanc/Wall/Aegiser - Try to keep out of healo... very expensive spells
+Blinders - This will normally be everyone in the group
+Dispeller - For casting mobs. So that you don't dispel debuffs
+Silencer - For casting mobs. Keeps them from healing blinds/blasting
+Staffer - Things go wrong. Make sure you have someone to handle it.
+
+After battle starts, you may need these:
+Reblinder - Blind only lasts 2 or 3 ticks, battle can be much more
+Resancer/Waller - Sanctuary only lasts 3 ticks, battle can be much more
+Goto - Things happen, have someone designated to hand it
+
+Once you have the elements you need, things usually run pretty smoothly as long
+as you pick the right targets and use the right tactics. The most important
+thing after the group gets started is to watch the healo's mana. When it's gone,
+you're done. This is why the healo is critical to the group, it's exactly like
+gas. When you run out, your group is going nowhere fast.
+
+Other considerations:
+I hate to close groups... but it's not hard to get a group that's bigger than
+the area you're running. If you don't know an area to move to, or haven't got
+something you need to run that area (ie. you have a -9 instead of -10 tank),
+then allowing the group to grow really defeats the purpose. Close the group or
+see if they're willing to help you explore a new area.
+
+Keeping an eye on the who list is always a good idea until you've got enough
+folks to run smoothly. It's always handy to recruit better tanks, more healos,
+more hitters or any other element you feel you're weak on.
+
+I think that covers most the basics....
+
+Most of all, have fun
+
+****************************************************************
+
+Very nice post. One thing that I disagree with is your ordering of class
+
+I usually order this way
+
+(Xx x.xx) Leader
+(Wa x.xx) Tank
+(Wa x.xx) 2.Tank/Hitter (optional)
+(Mo x.xx) Gripper (optional)
+(Th x.xx) Thief/Bard/Stabber/Hitter (optional)
+(Ma x.xx) Blasters (optional, may double as Healos)
+...more Blasters...
+(Cl x.xx) Healo
+...more Healos
+(Ne x.xx) Necros for weaken and scourge debuffs
+(Xx x.xx) Goto
+(Xx x.xx) Non-Protectors (if any)
+
+Here is my reasoning. Monks after warriors due to high dmg reduction / hp / ac /
+dmg. Monks can take hits alot better than thieves can etc. Mages love to blast
+on stab, if they are below the healos then clerics get drug into the fight and
+sometimes hurt. Healo dying first is very bad. I put the most valuable debuffers
+at the bottom of the group. This is usually necros because they have the variety
+of debuffing spells and need to assist last. Alot of clerics dont have weaken so
+they usually jump in the fight after blinds. Druids are very good in last viable
+position due to high mana regen which makes them great goto chars.
+
+In most of my groups the order is wa mo th ba ma cl ne dr.
+
+Obviously situations vary and you may need to place chars according to other
+skills.
+
+PS Grats to all the new leaders I have seen lately, keep up the good work.
+
+****************************************************************
+
+Aye, this was mostly intended to cover the basics, but those are good points. I
+also forgot some things, such as how to handle weakening and silencing, and
+general order of debuffing.
+
+For protect orders, I tend to consider AC first. So, for instance, Brady has
+sometimes 2.tanked for me in a pinch because he can manage a -10 mode. I usually
+have him run in mana mode which puts him at +AC and working in the goto. Necros
+tend to have decent AC for a mana class, which usually places them higher... but
+freedom to weaken is a very good consideration. Another perk of monks, besides
+damage reduction is counterattack. While not quite as effective as parry, it
+does give them a slight defense advantage, even over non-parrying warriors.
+
+On the topic of goto. Any quad caster makes a fantastic goto simply for the
+masterfuls and freedom of movement at the bottom of the protect order. Druid
+primes have excellent outdoor regen, which makes characters like Daedalus and
+Cipha powerhouses in the goto position. However, even 2nd druids with protect
+such as Rynquald can handle themselves very effectively.
+
+Mages are a tough case. They love to blast. In stab/blast groups, that works
+great, but against larger mobs it's simply draining. I normally have them
+refrain from blasting and concentrate on debuffing and healing unless their
+cleric levels are low enough to make them ineffective healers. Since damners
+normally have disengage, the tank webs, and everyone (including the healo) is
+blinding, I typically don't have problems with the healo being dragged into
+battle, and rarely with weakeners. Though typically necros are skilled enough
+it's not really a problem. It's also very rare that it takes me more than 2-3
+rounds to have a mob completely debuffed.
+
+Lastly, these are only my opinions. I don't run the same as many leaders,
+including Mike, and I know first hand that Mike knows exactly what he's doing.
+If the folks following you are happy with the xp or equipment they're getting,
+chances are, you're doing things right. Even better, if you have people asking
+you to lead, you've got things mostly figured out.
+
+On the other hand, if folks are dying/shocking on a regular basis from things
+other than specs... this guide may be for you. Remember, just because a mob is
+in an area doesn't mean you have to run it. There are a lot of mobs in a lot of
+areas that simply not worth the trouble of killing. Paraclesus in the castle
+comes to mind... Use your best judgment.
+
+****************************************************************
+

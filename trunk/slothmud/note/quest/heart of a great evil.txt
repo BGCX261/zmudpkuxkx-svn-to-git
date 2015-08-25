@@ -1,0 +1,193 @@
+
+Your fireball hits Lord Abbadon with full force, causing an immediate death.
+Lord Abbadon is dead! R.I.P.
+wield dagger
+apd
+apd
+You receive 981418 experience points as your share.
+You gain 88327 experience for being on point!
+Your blood freezes as you hear Lord Abbadon's death cry.
+You get gold coins from the corpse of Lord Abbadon that's on the ground.
+There were 17750 coins.
+You split 17750 coins.  You keep 4439 coins.
+You get the heart of a great evil from the corpse of Lord Abbadon that's on the ground.
+
+
+
+An Immaculate Cell
+Exits: West  
+A freshly made bed rests snugly against the wall.
+Ask arrives from the west.
+Dubbs and Indra arrive with him.
+
+<618/763hp 36/211ma 172/212mv> xp:38915929 g:195199 ac:[-4.3] 12:39 am Shadow Keep SS
+gnpc no set
+Ask gives you the corpse of Lord Abbadon.
+
+<622/763hp 37/211ma 174/212mv> xp:38915929 g:195199 ac:[-4.3] 12:44 am Shadow Keep SS
+Ask says 'put that corpse on the bed'
+You report 627/763 hp. Change: +10. Need: 136. Spells: sanctuary.
+
+<627/763hp 38/211ma 176/212mv> xp:38915929 g:195199 ac:[-4.3] 12:51 am Shadow Keep SS
+Ming answers your request!
+Fee the peri appears in a flash of rainbow light!
+Fee the peri starts following you.
+
+<630/763hp 39/211ma 177/212mv> xp:38915929 g:195199 ac:[-4.3] 12:53 am Shadow Keep SS
+Your peri brushes you with her wing.
+You feel better!
+You report 662/763 hp. Change: +35. Need: 101. Spells: sanctuary.
+
+<662/763hp 40/211ma 179/212mv> xp:38915929 g:195199 ac:[-4.3] 12:59 am Shadow Keep SS
+put corpse on the bed
+The bed is not a container.
+
+<664/763hp 41/211ma 180/212mv> xp:38915929 g:195199 ac:[-4.3] 1:01 am Shadow Keep SS
+put corpse on bed
+The bed is not a container.
+
+<667/763hp 42/211ma 182/212mv> xp:38915929 g:195199 ac:[-4.3] 1:05 am Shadow Keep SS
+Ask looks at you.
+You report 672/763 hp. Change: +10. Need: 91. Spells: sanctuary.
+
+<672/763hp 43/211ma 184/212mv> xp:38915929 g:195199 ac:[-4.3] 1:11 am Shadow Keep SS
+l bed
+You see nothing special..
+
+<673/763hp 43/211ma 184/212mv> xp:38915929 g:195199 ac:[-4.3] 1:12 am Shadow Keep SS
+l
+An Immaculate Cell
+   A large engraving, highlighted with blue crystals, adorns the floor of
+this unspoiled cell.  Gleaming metallic walls, polished to a mirrored
+finish,  reflect the light coming from a glowing orb hovering inches below
+the ceiling.  A bed has been placed against the rear wall, and a small wash
+basin rests on it peacefully.
+Exits: West  
+A freshly made bed rests snugly against the wall.
+A white-robed maiden with tiny white swan-like wings lounges here.
+Indra the Untitled is standing here.
+Dubbs is seekin some caster eq :} is standing here.
+Ask [[[CSK]]] looking for cry of the avatar book is standing here.
+
+<675/763hp 44/211ma 185/212mv> xp:38915929 g:195199 ac:[-4.3] 1:14 am Shadow Keep SS
+put corpse on bed
+Ask -- 'put corpse bed thlq'
+The bed is not a container.
+You report 679/763 hp. Change: +7. Need: 84. Spells: sanctuary.
+
+<679/763hp 45/211ma 187/212mv> xp:38915929 g:195199 ac:[-4.3] 1:18 am Shadow Keep SS
+Your peri brushes you with her wing.
+You feel better!
+You report 725/763 hp. Change: +46. Need: 38. Spells: sanctuary.
+
+<725/763hp 45/211ma 187/212mv> xp:38915929 g:195199 ac:[-4.3] 1:19 am Shadow Keep SS
+put corpse bed
+A brilliant light floods the room and you sense a foriegn presence!
+
+
+<728/763hp 46/211ma 188/212mv> xp:38915929 g:195199 ac:[-4.3] 1:23 am Shadow Keep SS
+l
+An Immaculate Cell
+   A large engraving, highlighted with blue crystals, adorns the floor of
+this unspoiled cell.  Gleaming metallic walls, polished to a mirrored
+finish,  reflect the light coming from a glowing orb hovering inches below
+the ceiling.  A bed has been placed against the rear wall, and a small wash
+basin rests on it peacefully.
+Exits: West  
+A freshly made bed rests snugly against the wall.
+A brilliant, but very tired-looking spectre drifts near the bed.
+A white-robed maiden with tiny white swan-like wings lounges here.
+Indra the Untitled is standing here.
+Dubbs is seekin some caster eq :} is standing here.
+Ask [[[CSK]]] looking for cry of the avatar book is standing here.
+You report 733/763 hp. Change: +8. Need: 30. Spells: sanctuary.
+
+<733/763hp 47/211ma 190/212mv> xp:38915929 g:195199 ac:[-4.3] 1:28 am Shadow Keep SS
+i
+You are carrying:
+water barrel
+a red potion
+a dwarvish recall scroll [2]
+a large vial of a colorless liquid [6]
+a large glowing green emerald..It has a soft glowing aura!
+dwarvish rations [2]
+a book locked with crampons
+a backpack
+a sack
+
+<738/763hp 48/211ma 192/212mv> xp:38915929 g:195199 ac:[-4.3] 1:33 am Shadow Keep SS
+gt did
+You grouptell: 'did'
+You report 739/763 hp. Change: +6. Need: 24. Spells: sanctuary.
+
+<739/763hp 49/211ma 193/212mv> xp:38915929 g:195199 ac:[-4.3] 1:35 am Shadow Keep SS
+Ask -- 'ask paladin about quest'
+You report 746/763 hp. Change: +7. Need: 17. Spells: sanctuary.
+
+<746/763hp 51/211ma 196/212mv> xp:38915929 g:195199 ac:[-4.3] 1:43 am Shadow Keep SS
+Ask asks the spectre of a lodestone paladin a question.
+
+<750/763hp 52/211ma 198/212mv> xp:38915929 g:195199 ac:[-4.3] 1:47 am Shadow Keep SS
+ask paladin about quest
+You ask the spectre of a lodestone paladin about 'quest'.
+The spectre of a lodestone paladin tells you 'Im looking for a heart_of_evil.'
+You report 753/763 hp. Change: +7. Need: 10. Spells: sanctuary.
+
+<753/763hp 53/211ma 199/212mv> xp:38915929 g:195199 ac:[-4.3] 1:52 am Shadow Keep SS
+Dubbs asks the spectre of a lodestone paladin a question.
+
+<757/763hp 53/211ma 201/212mv> xp:38915929 g:195199 ac:[-4.3] 1:55 am Shadow Keep SS
+remove robe
+Ask -- 'and undertake it'
+
+<758/763hp 54/211ma 202/212mv> xp:38915929 g:195199 ac:[-4.3] 1:57 am Shadow Keep SS
+You stop using a grey robe.
+
+<758/763hp 54/211ma 202/212mv> xp:38915929 g:195199 ac:[-3.8] 1:58 am Shadow Keep SS
+get heart robe
+You get the heart of a great evil from a grey robe.
+You report 761/763 hp. Change: +8. Need: 2. Spells: sanctuary.
+
+<761/763hp 55/211ma 203/212mv> xp:38915929 g:195199 ac:[-3.8] 2:01 am Shadow Keep SS
+Dubbs -- 'lets load this heart again :P'
+
+<763/763hp 56/211ma 205/212mv> xp:38915929 g:195199 ac:[-3.8] 2:05 am Shadow Keep SS
+The white aura around your body fades.
+gt SANC DOWN!!!
+
+<763/763hp 56/211ma 205/212mv> xp:38915929 g:195199 ac:[-3.8] 2:07 am Shadow Keep SS
+undertake heart_of_evil
+You grouptell: 'SANC DOWN!!!'
+
+<763/763hp 56/211ma 205/212mv> xp:38915929 g:195199 ac:[-3.8] 2:08 am Shadow Keep SS
+The spectre of a lodestone paladin tells you 'Somewhere in this Keep is a monster of unspeakable'
+The spectre of a lodestone paladin tells you 'evil. It has been my duty for centuries to keep the darkness of this place from spreading'
+The spectre of a lodestone paladin tells you 'out over the land.  I am losing control of it as of late, and I fear without the heart of'
+The spectre of a lodestone paladin tells you 'great evil I will no longer be able to keep it inside the borders of the Keep. My existance'
+The spectre of a lodestone paladin tells you 'is bound to this cell, and as such, I cannot leave it.  Bring me a heart of great evil!'
+
+<763/763hp 56/211ma 206/212mv> xp:38915929 g:195199 ac:[-3.8] 2:08 am Shadow Keep SS
+Dubbs -- 'drachma?'
+
+<763/763hp 57/211ma 207/212mv> xp:38915929 g:195199 ac:[-3.8] 2:11 am Shadow Keep SS
+Ask -- 'nod'
+
+<763/763hp 57/211ma 207/212mv> xp:38915929 g:195199 ac:[-3.8] 2:12 am Shadow Keep SS
+gt give it to him?
+You grouptell: 'give it to him?'
+
+<763/763hp 58/211ma 209/212mv> xp:38915929 g:195199 ac:[-3.8] 2:16 am Shadow Keep SS
+Dubbs -- 'cooool'
+
+<763/763hp 59/211ma 210/212mv> xp:38915929 g:195199 ac:[-3.8] 2:19 am Shadow Keep SS
+Ask -- 'give him after undertake'
+
+<763/763hp 60/211ma 212/212mv> xp:38915929 g:195199 ac:[-3.8] 2:23 am Shadow Keep SS
+give heart to paladin
+Ok.
+The spectre of a lodestone paladin tells you 'Ah! The heart of the great evil! Ha, I wish Geoffrey
+could see me in this cell, keeping his forces from roaming out into Settlestone. He would
+be positively livid!  Thank you, adventurers!'
+You have gained 20 drachma.
+Saving Thlq.
+Saving items.

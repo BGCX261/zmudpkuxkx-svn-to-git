@@ -1,0 +1,22 @@
+
+<659hp 176ma 151mv>Settlestone SS indoors
+ask silence about quest
+You ask the Mistress of Silence about quest.
+The Mistress of Silence tells you 'Why do you interrupt my meditation?  *sigh* This place is too busy.
+People come and go, and nobody is ever quiet like they should be.  Every
+day I hear too much adventurer_gossip.  '
+<659hp 177ma 151mv>Settlestone SS indoors
+
+ask silence about adventurer_gossip
+You ask the Mistress of Silence about adventurer_gossip.
+The Mistress of Silence tells you 'Yes.  Many of the adventurers are rude like that, and it disturbs my
+inner peace.  Just a few days ago, two of them were in here together.
+However, they were discussing something which sounded very interesting.  '
+<659hp 204ma 151mv>Settlestone SS indoors
+undertake adventurer_gossip
+The Mistress of Silence tells you 'I will gladly tell you what they said in return for your help making
+this house of silence a cleaner place.  In all my years of meditation, I
+have failed to dust.  I need you to bring me a tool that I can use to clean
+up some of this dust.  There is so much dust now that I am starting to
+sneeze!  '
+<659hp 255ma 151mv>Settlestone SS indoors

@@ -1,0 +1,29 @@
+Components List and Instructions for
+Leather Phylactery
+Cost: 8.000.000 coins
+Forged by: Frnalzum in Cloud Giants
+Arms 
+Item Name Found on Mobile In Area Armor Class Affects Restriction 
+Leather Phylactery Forged Cloud Giants -0.0 +5 Stab Dam, +5 Circle Dam ST AdAv [OR] Forged Clasp 
+Original forge instructions:
+Frnalzum makes the phylactery. It is a perfectly cubicle box, made of 
+leather, with leather straps to tie it to the arms. A few letters are 
+embossed on the outermost face of the box. Therefore, the objects required 
+by Frnalzum to assemble the object are: 
+A golden embossing stamp, a bone needle (to sew it all together), a 
+leather plaque (to serve as the backing for the box), some silken thread, 
+a bit of gypsum dust to preserve the leather, a rolled up piece of paper 
+with a prayer written on it, a box of clean leather, and the leather thongs 
+that are used to attach it to the arm.
+
+Components:
+Item Name Found on Mobile In Area 
+Golden Embossing Stamp Random Cloud Giants 
+Bone Needle Random Cloud Giants 
+Leather Plaque Random Cloud Giants 
+Silken Thread Random Cloud Giants 
+Gypsum Dust Random Cloud Giants 
+Prayer Scroll Random Cloud Giants 
+Box of Clean Leather Random Cloud Giants 
+Leather Thongs Random Cloud Giants 
+ 

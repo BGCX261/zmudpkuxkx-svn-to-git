@@ -1,0 +1,27 @@
+AH chubby eskimo
+Island:
+
+shopkeeper
+midgaard:cityguard(aggro)
+
+element scholl
+Virus[Clan:sidekickers]> 'coin mobs are lammasu, semi-elf and dwarf'
+Tisna[degenerates]> 'u need knock to do elemental school'
+
+Virus tells you 'from crystal structure go eeessswsenwsenn that's the first lammasu'
+Virus tells you 'after you kill that mob sswneswnessswwwnwsenn that'll take you to semielf in fire tower'
+Virus tells you 'after that mob go swsenwss that's the 2nd semielf'
+Virus tells you 'and nee to 3rd semielf with dwarf'
+
+Suriv[Clan:sidekickers]> 'it was elemental school, native shopkeepers, gold smuggler in maze, aces in Tarot, ghoul in midgaard and miners...go look up map'
+
+eeessswsenwsenn
+sswneswnessswwwnwsenn
+swsenwss
+nee
+
+wsenwsenn
+
+nwsenn
+swsenwss
+nee

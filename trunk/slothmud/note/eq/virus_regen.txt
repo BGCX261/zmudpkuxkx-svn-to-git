@@ -1,0 +1,20 @@
+Virus is using:
+<used as light>      a chunk of malachite
+<worn on finger>     a crystal ring..It has a soft glowing aura!
+<worn on finger>     a crystal ring..It has a soft glowing aura!
+<worn around neck>   a purple dragon's claw..It has a soft glowing aura!
+<worn around neck>   a purple dragon's claw..It has a soft glowing aura! (with a red minidemon brooch attached to it)
+<worn on body>       a black suit of dwarven platemail
+<worn on head>       a golden circlet
+<worn on legs>       volcanic plates..It has a soft glowing aura!
+<worn on feet>       black demonskin boots..It emits a faint humming sound!
+<worn on hands>      a pair of silver gauntlets
+<worn on arms>       sleeves of molten lava..It has a soft glowing aura! (with a leather phylactery attached to it)
+<worn as shield>     the Wind Shield
+<worn about body>    Cloak of Specialization..It emits a faint humming sound!
+<worn about waist>   Tooled Girdle of Ogre Kings (with a golden, four-pointed star (Major) attached to it)
+<worn around wrist>  etched marble circle..It has a soft glowing aura!
+<worn around wrist>  a dragonskin bracelet..It has a soft glowing aura!
+<wielded>            a gem cutter..It has a soft glowing aura!
+<held>               a small pebble
+<loaded>             a dragon's arrow..It has a soft glowing aura!

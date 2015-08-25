@@ -1,0 +1,898 @@
+cast 'gate' chi
+Ok.
+Your portal has successfully opened.
+<598hp 490ma 171mv>Aisholm Town Ah overcast 5:22 am
+ep
+Autolycos gossips-- '?'
+There are no loyal subjects of yours here!
+<599hp 494ma 171mv>Aisholm Town Ah overcast 5:25 am
+You have entered the portal!
+
+Wow.. the room dissolves around you, and your senses reel.
+portal out
+This trip is rudely interrupted as you are spat out the other side.
+
+Inside the Shadow Gate
+Exits: East  South  Up
+AN OPEN PORTAL IS HERE!
+You see Chi here.
+You gain 99999 experience for intrepidly reaching Shadow Realm!
+Weasel gossips-- 'lol'
+<599hp 494ma 171mv>Shadow Realm Ah overcast 5:26 am
+Exp gain:99.999K
+Belloc gossips-- 'i do :)'
+<599hp 497ma 171mv>Shadow Realm Ah overcast 5:29 am
+Chi -- 'okay'
+<601hp 508ma 171mv>Shadow Realm Ah overcast 5:38 am
+gt first reach
+Chi utters the words, 'azoug'
+You are surrounded by a radiant light.
+Weasel gossips-- 'yes I do too :)'
+<601hp 510ma 171mv>Shadow Realm Ah overcast 5:40 am
+You grouptell: '*Druid* first reach'
+<601hp 511ma 171mv>Shadow Realm Ah overcast 5:41 am
+lick chi
+You lick her.
+<602hp 513ma 171mv>Shadow Realm Ah overcast 5:43 am
+Chi -- 'cloak self'
+<602hp 514ma 171mv>Shadow Realm Ah overcast 5:44 am
+Autolycos gossips-- 'stfu belloc.. you dont want red glass.. you want HOT POCKET!!!!'
+<603hp 519ma 171mv>Shadow Realm Ah overcast 5:48 am
+gt unlearned
+You grouptell: '*Druid* unlearned'
+<604hp 525ma 171mv>Shadow Realm Ah overcast 5:54 am
+cast 'darkness' islq
+Ok.
+A cloud of inky darkness envelops you.
+<604hp 519ma 171mv>Shadow Realm Ah overcast 5:58 am
+gt darknees?
+Chi utters the words, 'eabrat qraat'
+<605hp 522ma 171mv>Shadow Realm Ah overcast 6 o'clock am
+Mosaix gossips-- 'ummm hot pockets'
+<605hp 523ma 171mv>Shadow Realm Ah overcast 6:01 am
+Belloc gossips-- 'to late...already ate it'
+<605hp 523ma 171mv>Shadow Realm Ah overcast 6:01 am
+Chi utters the words, 'eabrat qraat'
+A dark haze precipitates around your body.
+<605hp 525ma 171mv>Shadow Realm Ah overcast 6:03 am
+You follow Chi.
+
+Above the Oblivion
+Exits: East  West  Up
+You see Chi here.
+<606hp 529ma 165mv>Shadow Realm Ah overcast 6:07 am
+whiner disabled for 1 second
+You follow Chi.
+
+Bridge Over the Void
+Exits: East  West
+You see Chi here.
+You also see an ecalypse here.
+<606hp 529ma 159mv>Shadow Realm Ah overcast 6:07 am
+You follow Chi.
+
+Above the Oblivion
+Exits: East  South  West  Up
+You see Chi here.
+You also see two ecalypses here.
+<606hp 529ma 153mv>Shadow Realm Ah overcast 6:08 am
+You follow Chi.
+
+The Base of Mount Syarlym
+Exits: North  East  Up
+You see Chi here.
+<606hp 531ma 147mv>Shadow Realm Ah overcast 6:09 am
+
+<606hp 531ma 147mv>Shadow Realm Ah overcast 6:09 am
+You grouptell: '*Druid* darknees?'
+<606hp 531ma 147mv>Shadow Realm Ah overcast 6:09 am
+Belloc gossips-- 'pizza hot pockets are best'
+<606hp 532ma 148mv>Shadow Realm Ah overcast 6:10 am
+You follow Chi.
+
+A Water-Carved Tunnel
+Exits: South  West
+You see Chi here.
+<606hp 532ma 142mv>Shadow Realm Ah indoors 6:11 am
+You follow Chi.
+
+Below a Waterfall
+Exits: North  Up
+You see Chi here.
+<606hp 533ma 136mv>Shadow Realm Ah overcast 6:11 am
+You follow Chi.
+
+Fossilized Waterfall
+Exits: East  Down
+You see Chi here.
+<607hp 536ma 131mv>Shadow Realm Ah overcast 6:13 am
+sc
+Chi -- 'okay'
+<607hp 538ma 132mv>Shadow Realm Ah overcast 6:16 am
+Islq the Druid.  (level: 40)
+Your levels:  Dr: 40 Cl: 40 Ne: 40 Ma: 27
+You are 37 years and 13 months old.
+You are a citizen of Bal Harbor.
+You are a devout worshipper of Ming.
+Your throat is starting to get dry.
+You are tainted with evil.
+You have not explored this area at all.
+You've seen 26.9% of the world.
+You have (607/662+10) hit, (539/596+65) mana and (132/171+25) movement points.
+Your armor class is 2.0.
+You have 0 to hit and 0 on damage.
+You have 873035 gold coins.
+You have two hundred and thirty-six drachma.
+You have 51649856 unused experience points.
+You have been playing for 35 days and 15 hours.
+You are well-attuned to the healing stratum.
+Str: 13 / 0, Int: 18, Wis: 18, Dex: 18, Con: 16
+You are standing.
+You are protected by a shield of thorns.
+You are affected by the following spells:
+   Detect Evil
+   Detect Good
+   Detect Invisible
+   Darksight
+   Aegis
+   Dark Cloak
+   Darkness
+   Shield of Thorns
+<607hp 539ma 132mv>Shadow Realm Ah overcast 6:16 am
+Chi -- 'what i want you to do'
+<608hp 542ma 134mv>Shadow Realm Ah overcast 6:20 am
+nod
+You nod solemnly.
+<608hp 544ma 134mv>Shadow Realm Ah overcast 6:21 am
+Chi utters the words, 'uizuguburuhl'
+You vanish.
+<608hp 544ma 134mv>Shadow Realm Ah overcast 6:22 am
+Shyla gossips-- 'they would be better if they left the peperoni off them'
+<609hp 550ma 137mv>Shadow Realm Ah overcast 6:26 am
+Chi -- 'go east, and enter portal fast'
+<609hp 551ma 137mv>Shadow Realm Ah overcast 6:27 am
+Chameleon gossips-- '*tigress* nods'
+<610hp 556ma 139mv>Shadow Realm Ah overcast 6:32 am
+e
+enter protal
+Edge of Oblivion
+Exits: West
+Flakes of ash break away from a semi-burned scroll.
+You see a nightwalker here.
+<610hp 558ma 134mv>Shadow Realm Ah overcast 6:34 am
+There is no protal here.
+<610hp 558ma 134mv>Shadow Realm Ah overcast 6:34 am
+w
+Chi[degenerates]> 'oh well he not leading'
+<611hp 561ma 135mv>Shadow Realm Ah overcast 6:37 am
+Fossilized Waterfall
+Exits: East  Down
+You see Chi here.
+<611hp 562ma 129mv>Shadow Realm Ah overcast 6:37 am
+Autolycos gossips-- 'nfw... peperoni rocks'
+<612hp 568ma 132mv>Shadow Realm Ah overcast 6:43 am
+gt no portal?
+You grouptell: '*Druid* no portal?'
+<612hp 570ma 132mv>Shadow Realm Ah overcast 6:45 am
+Chi -- 'enter portal'
+Mech[degenerates]> 'yea'
+<612hp 571ma 133mv>Shadow Realm Ah overcast 6:46 am
+You follow Chi.
+
+Edge of Oblivion
+Exits: West
+Flakes of ash break away from a semi-burned scroll.
+You see Chi here.
+You also see a nightwalker here.
+<613hp 575ma 128mv>Shadow Realm Ah overcast 6:49 am
+Chi is consumed by the yawning darkness of the darkness.
+<613hp 575ma 128mv>Shadow Realm Ah overcast 6:49 am
+Chameleon gossips-- '*tigress* not from hot pockets'
+<613hp 576ma 129mv>Shadow Realm Ah overcast 6:50 am
+Chi -- 'portal'
+<613hp 578ma 129mv>Shadow Realm Ah overcast 6:52 am
+enter portal
+You are viciously massacred by a nightwalker's rake.
+<538hp 579ma 130mv>Shadow Realm Ah overcast 6:53 am
+Alias gossips-- 'auto likes the sausage too'
+<538hp 579ma 130mv>Shadow Realm Ah overcast 6:53 am
+No way! You are fighting for your life!
+<538hp 579ma 130mv>Shadow Realm Ah overcast 6:53 am
+Mosaix gossips-- 'auto speaks the truth, hear him'
+<539hp 580ma 130mv>Shadow Realm Ah overcast 6:55 am
+A nightwalker hates your guts!
+You pound a nightwalker hard.
+You are viciously massacred by a nightwalker's rake.
+You are brutally massacred by a nightwalker's claw.
+You are brutally massacred by a nightwalker's rake.
+You are brutally massacred by a nightwalker's rake.
+You are brutally massacred by a nightwalker's claw.
+You are viciously massacred by a nightwalker's bite.
+A nightwalker attempts to bash you, but bounces off and is sent sprawling!
+A nightwalker clambers onto his feet.
+<200hp 581ma 131mv>Shadow Realm Ah overcast 6:55 am
+Exp gain:328
+Chi -- 'fast'
+<200hp 583ma 131mv>Shadow Realm Ah overcast 6:57 am
+Mosaix gossips-- 'ha'
+You would 'hold' that.
+<200hp 584ma 132mv>Shadow Realm Ah overcast 6:59 am
+Shyla gossips-- 'no it doesn't it is only good if it is cold'
+You recite a scroll of recall which dissolves.
+The Wide Gate
+   This is the northern gate of Aisholm, a small human settlement in the
+frozen continent of Thule.  A set of wide double gates opens in the wall,
+and there is a building to the south.  The street is unpaved, its loosely
+packed clay as naked as when the humans first arrived to Thule.  The whole
+town must turn into a mudhole when the snow melts.  A high walkway runs
+the length of the stockade.
+Exits: North  East  West
+AN OPEN PORTAL IS HERE!
+A durable mining pick collects dust on the ground.
+A large bulletin board is mounted on a wall here.
+A wooden sign has been nailed to Aisholm's gates.
+A small white bird is pecking at some crumbs of something on the ground.
+A frost giantess is guarding the gate.
+A frost giant is guarding the gate.
+<200hp 585ma 132mv>Aisholm Town Ah overcast 6:59 am
+Chameleon gossips-- '*tigress* theirs is nasssteeee'
+<200hp 585ma 132mv>Aisholm Town Ah overcast 6:59 am
+The day has begun.
+You feel a chill run down your spine.
+<201hp 587ma 133mv>Aisholm Town Ah overcast 7 o'clock am
+
+<201hp 591ma 134mv>Aisholm Town Ah overcast 7:04 am
+Shyla gossips-- 'once peperoni is heated up it isn't worth eating'
+<202hp 595ma 136mv>Aisholm Town Ah overcast 7:08 am
+Mosaix gossips-- 'summer sausage'
+<202hp 596ma 136mv>Aisholm Town Ah overcast 7:09 am
+Kirdox[degenerates]> 'marcus can i gate u?'
+<202hp 596ma 137mv>Aisholm Town Ah overcast 7:11 am
+Chi appears in the middle of the room.
+<203hp 596ma 138mv>Aisholm Town Ah overcast 7:13 am
+Chi[degenerates]> 'for ?'
+<203hp 596ma 139mv>Aisholm Town Ah overcast 7:15 am
+gt don't see a portal
+Chi has just entered the portal.
+<203hp 596ma 139mv>Aisholm Town Ah overcast 7:16 am
+Autolycos gossips-- 'wtf do you care?  grease wrapped in grease shoved in a dirtbag.. you cant taste it anyway'
+<203hp 596ma 140mv>Aisholm Town Ah overcast 7:17 am
+Chi -- 'again'
+<203hp 596ma 140mv>Aisholm Town Ah overcast 7:18 am
+Kirdox[degenerates]> 'i wanna go ss'
+<204hp 596ma 140mv>Aisholm Town Ah overcast 7:18 am
+Chi[degenerates]> 'wait i at AH'
+You grouptell: '*Druid* don't see a portal'
+<205hp 596ma 143mv>Aisholm Town Ah overcast 7:24 am
+whiner disabled for 1 second
+l
+Chi -- 'just type that dude'
+The Wide Gate
+   This is the northern gate of Aisholm, a small human settlement in the
+frozen continent of Thule.  A set of wide double gates opens in the wall,
+and there is a building to the south.  The street is unpaved, its loosely
+packed clay as naked as when the humans first arrived to Thule.  The whole
+town must turn into a mudhole when the snow melts.  A high walkway runs
+the length of the stockade.
+Exits: North  East  West
+AN OPEN PORTAL IS HERE!
+A durable mining pick collects dust on the ground.
+A large bulletin board is mounted on a wall here.
+A wooden sign has been nailed to Aisholm's gates.
+A small white bird is pecking at some crumbs of something on the ground.
+A frost giantess is guarding the gate.
+A frost giant is guarding the gate.
+<205hp 596ma 144mv>Aisholm Town Ah overcast 7:28 am
+ch islq
+Chi -- 'now enter again'
+<206hp 596ma 146mv>Aisholm Town Ah overcast 7:31 am
+ch islq
+You lost your concentration!
+<206hp 565ma 146mv>Aisholm Town Ah overcast 7:32 am
+Kirdox[degenerates]> 'so fast?'
+<206hp 566ma 146mv>Aisholm Town Ah overcast 7:32 am
+Weasel gossips-- 'mmm grease'
+<206hp 567ma 146mv>Aisholm Town Ah overcast 7:33 am
+Ok.
+The cleansing fires of healing fill your body!
+<472hp 506ma 147mv>Aisholm Town Ah overcast 7:35 am
+The captain arrives from the east.
+<472hp 507ma 147mv>Aisholm Town Ah overcast 7:35 am
+Autolycos gossips-- 'laugh'
+<473hp 511ma 149mv>Aisholm Town Ah overcast 7:38 am
+Kirdox[degenerates]> 'anyone in ss?'
+<473hp 513ma 149mv>Aisholm Town Ah overcast 7:40 am
+cast 'gate' chi
+Ok.
+The portal in the room wavers a bit.
+<474hp 426ma 151mv>Aisholm Town Ah overcast 7:43 am
+ch islq
+The captain leaves west.
+<474hp 428ma 151mv>Aisholm Town Ah overcast 7:45 am
+ep
+Chi[degenerates]> 'gate shallah'
+<474hp 429ma 152mv>Aisholm Town Ah overcast 7:46 am
+Ok.
+The cleansing fires of healing fill your body!
+<662hp 367ma 152mv>Aisholm Town Ah overcast 7:46 am
+Resouh gossips-- 'u heard it here first, auto shoved something in his dirtbag'
+<662hp 368ma 152mv>Aisholm Town Ah overcast 7:47 am
+There are no loyal subjects of yours here!
+<662hp 371ma 153mv>Aisholm Town Ah overcast 7:49 am
+You have entered the portal!
+
+Wow.. the room dissolves around you, and your senses reel.
+portal out
+This trip is rudely interrupted as you are spat out the other side.
+
+Inside the Shadow Gate
+Exits: East  South  Up
+AN OPEN PORTAL IS HERE!
+You see Chi here.
+<662hp 371ma 153mv>Shadow Realm Ah overcast 7:50 am
+Mosaix gossips-- 'its all about hotdogs and doughnuts'
+<662hp 372ma 154mv>Shadow Realm Ah overcast 7:50 am
+You follow Chi.
+
+Above the Oblivion
+Exits: East  West  Up
+You see Chi here.
+<662hp 373ma 148mv>Shadow Realm Ah overcast 7:52 am
+You follow Chi.
+
+Bridge Over the Void
+Exits: East  West
+You see Chi here.
+You also see an ecalypse here.
+<662hp 374ma 142mv>Shadow Realm Ah overcast 7:52 am
+You follow Chi.
+
+Above the Oblivion
+Exits: East  South  West  Up
+You see Chi here.
+You also see three ecalypses here.
+<662hp 374ma 136mv>Shadow Realm Ah overcast 7:52 am
+You follow Chi.
+
+The Base of Mount Syarlym
+Exits: North  East  Up
+You see Chi here.
+<662hp 374ma 130mv>Shadow Realm Ah overcast 7:52 am
+Mosaix gossips-- 'think about it'
+<662hp 377ma 132mv>Shadow Realm Ah overcast 7:55 am
+You follow Chi.
+
+Climbing Mount Syarlym
+Exits: Up  Down
+You see Chi here.
+You also see an ecalypse here.
+<662hp 378ma 126mv>Shadow Realm Ah overcast 7:56 am
+You follow Chi.
+
+The Base of Mount Syarlym
+Exits: North  East  Up
+You see Chi here.
+<662hp 381ma 121mv>Shadow Realm Ah overcast 7:59 am
+Autolycos gossips-- 'suck it resouh!'
+<662hp 383ma 122mv>Shadow Realm Ah overcast 8:01 am
+scan
+You follow Chi.
+
+A Water-Carved Tunnel
+Exits: South  West
+You see Chi here.
+<662hp 384ma 116mv>Shadow Realm Ah indoors 8:01 am
+You peer intently all around, and see:
+                           Chi : right here
+<662hp 385ma 117mv>Shadow Realm Ah indoors 8:02 am
+You follow Chi.
+
+Below a Waterfall
+Exits: North  Up
+You see Chi here.
+<662hp 385ma 111mv>Shadow Realm Ah overcast 8:03 am
+You follow Chi.
+
+Fossilized Waterfall
+Exits: East  Down
+You see Chi here.
+<662hp 387ma 105mv>Shadow Realm Ah overcast 8:04 am
+i
+Kirdox[degenerates]> 'i dint know can gate innkeeper'
+<662hp 387ma 105mv>Shadow Realm Ah overcast 8:04 am
+
+<662hp 387ma 105mv>Shadow Realm Ah overcast 8:04 am
+You are carrying:
+a flask of lavender-scented body oil
+a canteen
+an iron crowbar..It emits a faint humming sound!
+a red and white staff
+the ring of the dead
+a backpack
+a scroll of recall [2]
+an orange potion [10]
+a blob of curdled blood [2]
+<662hp 388ma 106mv>Shadow Realm Ah overcast 8:05 am
+Kirdox[degenerates]> 'hehe'
+<662hp 388ma 106mv>Shadow Realm Ah overcast 8:05 am
+Chi utters the words, 'uizuguburuhl'
+You vanish.
+<662hp 393ma 108mv>Shadow Realm Ah overcast 8:10 am
+Chi -- 'again'
+<662hp 397ma 109mv>Shadow Realm Ah overcast 8:13 am
+l east
+Edge of Oblivion
+<662hp 402ma 111mv>Shadow Realm Ah overcast 8:18 am
+gt portal at east?
+e
+enter portal
+w
+Chi -- 'just go east and type enter portal'
+<662hp 405ma 112mv>Shadow Realm Ah overcast 8:22 am
+Chi -- 'enter portal'
+Mech[degenerates]> 'can but i never remember BH innkeeper name =.='
+<662hp 407ma 113mv>Shadow Realm Ah overcast 8:23 am
+Chi -- 'fast'
+Shyla gossips-- 'take your corners'
+<662hp 409ma 114mv>Shadow Realm Ah overcast 8:24 am
+Resouh gossips-- 'hush vienna'
+<662hp 410ma 114mv>Shadow Realm Ah overcast 8:25 am
+You grouptell: '*Druid* portal at east?'
+<662hp 415ma 116mv>Shadow Realm Ah overcast 8:30 am
+Edge of Oblivion
+Exits: West
+Flakes of ash break away from a semi-burned scroll.
+You see a nightwalker here.
+<662hp 415ma 110mv>Shadow Realm Ah overcast 8:30 am
+You step into the bone-chilling darkness of the portal.
+The Altar Room of Akasha
+Exits: South
+An altar sculpted from pure onyx stone sits between two granite columns.
+There is a small marble sacrificial tablet on the ground here
+You see two acolyte of Akashas,  and Marthol here.
+<662hp 415ma 110mv>Akasha's Temple Ah indoors 8:30 am
+Alas, you cannot go that way...
+<662hp 415ma 110mv>Akasha's Temple Ah indoors 8:31 am
+Chi[degenerates]> 'bh innkeeper is'
+<662hp 417ma 111mv>Akasha's Temple Ah indoors 8:33 am
+Chameleon gossips-- '*tigress* rofl'
+Rith[degenerates]> 'bal-innkeeper'
+<662hp 419ma 112mv>Akasha's Temple Ah indoors 8:34 am
+Chi[degenerates]> 'bal-innkeeper'
+<662hp 419ma 112mv>Akasha's Temple Ah indoors 8:34 am
+Resouh gossips-- ':)'
+Shyla gossips-- 'don't make me separate you 2'
+<662hp 421ma 113mv>Akasha's Temple Ah indoors 8:37 am
+An acolyte of Akasha utters the words, 'candusounsozfahuai'
+<662hp 422ma 114mv>Akasha's Temple Ah indoors 8:38 am
+Mosaix gossips-- 'thats hot'
+<662hp 424ma 115mv>Akasha's Temple Ah indoors 8:41 am
+Chi -- 'yes, just type "enter portal'
+<662hp 424ma 115mv>Akasha's Temple Ah indoors 8:42 am
+gt done
+You grouptell: '*Druid* done'
+<662hp 426ma 116mv>Akasha's Temple Ah indoors 8:44 am
+Autolycos shouts 'LETS GET READY TO RUMBLE!!!!'
+<662hp 428ma 116mv>Akasha's Temple Ah indoors 8:45 am
+l
+The Altar Room of Akasha
+   A gigantic slab of onyx has been carved into the shape of an altar that
+sits against the north wall.  On the altar stands a small statue of a naked
+woman holding a barrel on her shoulder.  Dark red blood pours from her
+barrel into a trough that circles the altar and flows down glass tubes
+lining the structure's legs.  Two granite columns jut up on either side of
+the altar.  They rise up into the ceiling overhead.  The waist and legs of
+a human body lie prone against the western wall.  The west wall itself
+shimmers slightly in the torch light.
+Exits: South
+An altar sculpted from pure onyx stone sits between two granite columns.
+There is a small marble sacrificial tablet on the ground here
+(Brilliant Red Aura) An acolyte of Akasha aids in the ritual preparation.
+(Brilliant Red Aura) An acolyte of Akasha aids in the ritual preparation.
+(Brilliant Red Aura) The high priest of Akasha, Marthol, prepares to perform the daily rites.
+<662hp 429ma 117mv>Akasha's Temple Ah indoors 8:47 am
+Mech[degenerates]> 'oh so easy *bonk self*'
+<662hp 434ma 120mv>Akasha's Temple Ah indoors 8:53 am
+An acolyte of Akasha utters the words, 'candusgugh yufz'
+Chi steps out of the wall looking a bit paler than is normal.
+<662hp 437ma 121mv>Akasha's Temple Ah indoors 8:57 am
+An acolyte of Akasha utters the words, 'candusgugh yufz'
+Resouh gossips-- 'hmmm hunt saferoom'
+<662hp 438ma 122mv>Akasha's Temple Ah indoors 8:58 am
+Chi smiles happily.
+<662hp 439ma 122mv>Akasha's Temple Ah indoors 8:59 am
+You follow Chi.
+
+The Worship Chamber
+Exits: North  East  West  Down
+You see Chi here.
+You also see an acolyte of Akasha here.
+<662hp 439ma 121mv>Akasha's Temple Ah indoors 8 o'clock am
+You are thirsty.
+<662hp 440ma 122mv>Akasha's Temple Ah indoors 9 o'clock am
+You follow Chi.
+
+In a Stairwell
+Exits: Up  Down
+You see Chi here.
+It's empty already.
+<662hp 440ma 121mv>Akasha's Temple Ah indoors 9:01 am
+You follow Chi.
+
+A Stairwell
+Exits: East  South  West  Up
+You see Chi here.
+<662hp 440ma 120mv>Akasha's Temple Ah indoors 9:02 am
+Ok.
+A canteen is filled.
+<662hp 435ma 120mv>Akasha's Temple Ah indoors 9:02 am
+You follow Chi.
+
+A Red-Carpeted Hallway
+Exits: East  South
+You see Chi here.
+<662hp 435ma 119mv>Akasha's Temple Ah indoors 9:03 am
+You follow Chi.
+
+A Red-Carpeted Hallway
+Exits: North  South
+You see Chi here.
+<662hp 436ma 118mv>Akasha's Temple Ah indoors 9:03 am
+You follow Chi.
+
+The Lounge
+Exits: North
+A low-backed, red-velvet sofa stretches across the center of the room.
+You see Chi here.
+You also see Aukri here.
+<662hp 436ma 117mv>Akasha's Temple Ah indoors 9:03 am
+
+<662hp 436ma 117mv>Akasha's Temple Ah indoors 9:05 am
+Chameleon gossips-- '*tigress* weenie'
+Autolycos gossips-- 'wuss'
+<662hp 436ma 117mv>Akasha's Temple Ah indoors 9:06 am
+The 'darkness' spell on you is about to wear off.
+<662hp 437ma 117mv>Akasha's Temple Ah indoors 9:06 am
+Chi says 'attack me'
+<662hp 437ma 117mv>Akasha's Temple Ah indoors 9:07 am
+Mosaix shouts 'la la la connect the dots'
+<662hp 437ma 117mv>Akasha's Temple Ah indoors 9:07 am
+ask aukri about quest
+You ask Aukri about quest.
+Aukri tells you 'I simply love to smell pretty.  There are
+several oils_and_perfumes that I am currently longing to have.'
+<662hp 438ma 117mv>Akasha's Temple Ah indoors 9:10 am
+say ?
+You say '?'
+<662hp 440ma 118mv>Akasha's Temple Ah indoors 9:15 am
+Chi says 'attack me'
+<662hp 442ma 118mv>Akasha's Temple Ah indoors 9:21 am
+Autolycos gossips-- 'omfg.. u know you sux0r when rebel calls you a weenie :DS'
+<662hp 443ma 119mv>Akasha's Temple Ah indoors 9:24 am
+hit chi
+A demon appears from a puff of smoke.
+A demon smacks you really hard!
+A demon tells you 'Don't EVER do that again, punk!'
+A demon disappears in a mushroom cloud.
+<659hp 443ma 119mv>Akasha's Temple Ah indoors 9:25 am
+Chi says 'okay'
+<659hp 444ma 119mv>Akasha's Temple Ah indoors 9:28 am
+Shyla gossips-- 'well i guess i wlil go veg in lyme inn holler if you need me'
+<659hp 445ma 119mv>Akasha's Temple Ah indoors 9:29 am
+Weasel gossips-- 'fap fap fap unf unf unf poit!'
+<659hp 446ma 119mv>Akasha's Temple Ah indoors 9:32 am
+Mosaix gossips-- 'you are what you eat?'
+<659hp 446ma 119mv>Akasha's Temple Ah indoors 9:33 am
+Chi says 'undertake lavender_oil'
+<659hp 447ma 119mv>Akasha's Temple Ah indoors 9:35 am
+Chi looks at you.
+<660hp 448ma 120mv>Akasha's Temple Ah indoors 9:38 am
+Chi says 'and give'
+<661hp 453ma 121mv>Akasha's Temple Ah indoors 9:51 am
+Chameleon gossips-- '*tigress* leave it to weasel to get right to the poit'
+<661hp 453ma 121mv>Akasha's Temple Ah indoors 9:52 am
+undertake lavender_oil
+Aukri tells you 'I've heard of a beautiful maiden whose
+songs tempt even the sturdiest sailors.  She resides somewhere in the
+southern landsm though I know not her exact location.  I've also
+heard rumors that a young princess in a far away land also uses this
+oil from time to time.'
+<661hp 454ma 121mv>Akasha's Temple Ah indoors 9:54 am
+Chameleon gossips-- '*tigress* err point'
+<661hp 454ma 121mv>Akasha's Temple Ah indoors 9:55 am
+Chi utters the words, 'zuoaf'
+<661hp 454ma 121mv>Akasha's Temple Ah indoors 9:56 am
+i
+You are carrying:
+a canteen
+a flask of lavender-scented body oil
+an iron crowbar..It emits a faint humming sound!
+a red and white staff
+the ring of the dead
+a backpack
+a scroll of recall [2]
+an orange potion [10]
+a blob of curdled blood [2]
+<661hp 455ma 121mv>Akasha's Temple Ah indoors 9:59 am
+You are thirsty.
+<662hp 456ma 122mv>Akasha's Temple Ah indoors 10 o'clock am
+Autolycos gossips-- 'ok.. so i am apparently a chinese buffet?'
+Weasel gossips-- 'hehe'
+<662hp 456ma 122mv>Akasha's Temple Ah indoors 10:01 am
+You drink water from a canteen.
+<662hp 456ma 122mv>Akasha's Temple Ah indoors 10:02 am
+gt give flask?
+You grouptell: '*Druid* give flask?'
+<662hp 457ma 123mv>Akasha's Temple Ah indoors 10:03 am
+
+<662hp 458ma 123mv>Akasha's Temple Ah indoors 10:04 am
+The inky darkness around you fades.
+Chi -- 'yeah'
+<662hp 460ma 124mv>Akasha's Temple Ah indoors 10:06 am
+l
+The Lounge
+   A plush red carpet that follows a short hallway to the north ends at the
+entrance to this chamber.  A relaxing-looking oversized sofa sits solitary
+in the center of the chamber.  A silver chandelier with hundreds of unlit
+candles mounted in it hangs from the ceiling.  The intoxicating aroma of
+perfumed oils engulfs the small chamber.
+Exits: North
+A low-backed, red-velvet sofa stretches across the center of the room.
+Chi Null (invisible) is standing here.(Brilliant Red Aura)
+(Brilliant Red Aura) The vampyre princess, Aukri, lounges on her favorite sofa.
+<662hp 461ma 125mv>Akasha's Temple Ah indoors 10:08 am
+Chi[degenerates]> 'bh is bal-innkeeper'
+<662hp 462ma 125mv>Akasha's Temple Ah indoors 10:09 am
+Chi[degenerates]> 'ss is shallah'
+<662hp 464ma 126mv>Akasha's Temple Ah indoors 10:11 am
+Chi[degenerates]> 'ah is goodwife'
+<662hp 466ma 127mv>Akasha's Temple Ah indoors 10:14 am
+Autolycos gossips-- 'bring on them bytches'
+<662hp 466ma 128mv>Akasha's Temple Ah indoors 10:14 am
+Mosaix gossips-- 'ummm tasty'
+<662hp 468ma 128mv>Akasha's Temple Ah indoors 10:16 am
+Shyla gossips-- 'everything you can eat but why would you want to?'
+<662hp 468ma 128mv>Akasha's Temple Ah indoors 10:16 am
+give flask aukri
+Chi[degenerates]> 'island is master-john'
+<662hp 470ma 129mv>Akasha's Temple Ah indoors 10:18 am
+Ok.
+Aukri tells you 'Oh, mmmmm... it smells so splendid.'
+You have gained five drachma.
+Saving Islq.
+Saving items.
+<662hp 470ma 130mv>Akasha's Temple Ah indoors 10:19 am
+Mosaix gossips-- 'that is good eats'
+<662hp 471ma 130mv>Akasha's Temple Ah indoors 10:21 am
+Fable gossips-- 'any warrior tards need warcry?'
+<662hp 474ma 131mv>Akasha's Temple Ah indoors 10:23 am
+Chi -- 'My  -=AEGIS=-  is  DOWN!'
+Autolycos gossips-- 'cause they are so tasteY!'
+<662hp 476ma 133mv>Akasha's Temple Ah indoors 10:26 am
+Chi says 'okay ?'
+<662hp 478ma 133mv>Akasha's Temple Ah indoors 10:28 am
+Chi looks at you.
+<662hp 479ma 134mv>Akasha's Temple Ah indoors 10:31 am
+gt 5D, :)
+You grouptell: '*Druid* 5D, :)'
+<662hp 482ma 135mv>Akasha's Temple Ah indoors 10:33 am
+Chi looks at Aukri.
+<662hp 483ma 136mv>Akasha's Temple Ah indoors 10:34 am
+Mosaix gossips-- 'seasame chicken, with a house fried rice'
+<662hp 483ma 136mv>Akasha's Temple Ah indoors 10:34 am
+Chi -- 'nice :)'
+<662hp 484ma 137mv>Akasha's Temple Ah indoors 10:36 am
+Mech[degenerates]> 'cool got it'
+<662hp 484ma 137mv>Akasha's Temple Ah indoors 10:36 am
+Weasel gossips-- 'Dogs is a Chinese buffet.. one of the ingredients anyway'
+<662hp 484ma 137mv>Akasha's Temple Ah indoors 10:37 am
+Chi recites a scroll of recall.
+Chi disappears.
+<662hp 488ma 138mv>Akasha's Temple Ah indoors 10:41 am
+Mosaix gossips-- 'woof'
+<662hp 492ma 141mv>Akasha's Temple Ah indoors 10:47 am
+Autolycos gossips-- '4 of them.. all between 22 adn 27yrs old!  :D'
+<662hp 493ma 141mv>Akasha's Temple Ah indoors 10:47 am
+The 'shield of thorns' spell on you is about to wear off.
+<662hp 496ma 143mv>Akasha's Temple Ah indoors 10:50 am
+l
+Shyla gossips-- 'anyone need raise dead?'
+<662hp 497ma 143mv>Akasha's Temple Ah indoors 10:52 am
+The Lounge
+   A plush red carpet that follows a short hallway to the north ends at the
+entrance to this chamber.  A relaxing-looking oversized sofa sits solitary
+in the center of the chamber.  A silver chandelier with hundreds of unlit
+candles mounted in it hangs from the ceiling.  The intoxicating aroma of
+perfumed oils engulfs the small chamber.
+Exits: North
+A low-backed, red-velvet sofa stretches across the center of the room.
+(Brilliant Red Aura) The vampyre princess, Aukri, lounges on her favorite sofa.
+<662hp 498ma 144mv>Akasha's Temple Ah indoors 10:53 am
+
+<662hp 507ma 148mv>Akasha's Temple Ah indoors 11:04 am
+Autolycos gossips-- 'oh sorry.. i'm thinking of a diff chinese buffet :D'
+<662hp 512ma 151mv>Akasha's Temple Ah indoors 11:11 am
+clb set
+Ok.
+The magic fails.
+<662hp 494ma 152mv>Akasha's Temple Ah indoors 11:12 am
+Weasel gossips-- 'what the hell are we talking about btw?'
+<662hp 495ma 153mv>Akasha's Temple Ah indoors 11:14 am
+Mosaix gossips-- 'oh my'
+<662hp 497ma 153mv>Akasha's Temple Ah indoors 11:17 am
+Alias gossips-- 'nfc'
+<662hp 499ma 155mv>Akasha's Temple Ah indoors 11:19 am
+Mosaix gossips-- 'auto has the fever?'
+<662hp 501ma 155mv>Akasha's Temple Ah indoors 11:21 am
+Mosaix gossips-- 'gasp'
+<662hp 503ma 156mv>Akasha's Temple Ah indoors 11:23 am
+Chameleon gossips-- '*tigress* hehe'
+<662hp 504ma 157mv>Akasha's Temple Ah indoors 11:26 am
+ask aukri about oils_and_perfumes
+You ask Aukri about oils_and_perfumes.
+Aukri tells you 'I love to heat things up with a seductively
+pleasant combination of aromas.   I am always in search of rare
+body oils and perfumes.  The ones I seek currently are lavender_oil,
+some rose_perfume.  I've also heard that the essence_of_jasmine is also
+quite intoxicating, as is rare lilac_oil.
+Which scent would you like to seek out for me?'
+<662hp 509ma 160mv>Akasha's Temple Ah indoors 11:31 am
+Autolycos gossips-- 'for the flavor of a happy ending!'
+<662hp 512ma 161mv>Akasha's Temple Ah indoors 11:34 am
+Chameleon gossips-- '*tigress* or the flavor of a happy end'
+<662hp 519ma 165mv>Akasha's Temple Ah indoors 11:44 am
+Mosaix gossips-- 'i should take you to peabody conservatory'
+<662hp 520ma 165mv>Akasha's Temple Ah indoors 11:44 am
+gt 3 quest from him,right?
+You grouptell: '*Druid* 3 quest from him,right?'
+<662hp 524ma 167mv>Akasha's Temple Ah indoors 11:49 am
+Thorned vines let go of your body.
+<662hp 525ma 168mv>Akasha's Temple Ah indoors 11:50 am
+Mosaix gossips-- 'truly an asian buffet'
+<662hp 525ma 168mv>Akasha's Temple Ah indoors 11:50 am
+Chi -- 'islq are u still at aukri ?'
+<662hp 526ma 168mv>Akasha's Temple Ah indoors 11:51 am
+Autolycos gossips-- 'you aint takin me anywhere you dirty hooker'
+<662hp 530ma 170mv>Akasha's Temple Ah indoors 11:58 am
+The 'dark cloak' spell on you is about to wear off.
+The 'aegis' spell on you is about to wear off.
+<662hp 534ma 171mv>Akasha's Temple Ah indoors 12:01 pm
+gt yup
+Weasel gossips-- 'jimmy buffet is asian?'
+<662hp 535ma 171mv>Akasha's Temple Ah indoors 12:03 pm
+You grouptell: '*Druid* yup'
+<662hp 535ma 171mv>Akasha's Temple Ah indoors 12:03 pm
+Mosaix gossips-- 'either that or japan'
+<662hp 536ma 171mv>Akasha's Temple Ah indoors 12:04 pm
+
+<662hp 536ma 171mv>Akasha's Temple Ah indoors 12:04 pm
+Chameleon gossips-- '*tigress* i am NOT dirty'
+<662hp 538ma 171mv>Akasha's Temple Ah indoors 12:06 pm
+Chi -- 'okay stay there'
+<662hp 539ma 171mv>Akasha's Temple Ah indoors 12:08 pm
+gt nod
+You grouptell: '*Druid* nod'
+<662hp 543ma 171mv>Akasha's Temple Ah indoors 12:12 pm
+Mosaix gossips-- 'the hostess bars are quite nice'
+<662hp 543ma 171mv>Akasha's Temple Ah indoors 12:13 pm
+Chameleon gossips-- '*tigress* we just got out of the shower 20 mins ago'
+<662hp 544ma 171mv>Akasha's Temple Ah indoors 12:13 pm
+Autolycos gossips-- 'liar!   1 bath per month does not clean make'
+<662hp 549ma 171mv>Akasha's Temple Ah indoors 12:20 pm
+Weasel gossips-- '( O)(o )'
+<662hp 552ma 171mv>Akasha's Temple Ah indoors 12:23 pm
+Mosaix gossips-- 'though i recommend "soapland"'
+<662hp 552ma 171mv>Akasha's Temple Ah indoors 12:24 pm
+ask aukri about oils_and_perfumes
+You ask Aukri about oils_and_perfumes.
+Aukri tells you 'I love to heat things up with a seductively
+pleasant combination of aromas.   I am always in search of rare
+body oils and perfumes.  The ones I seek currently are lavender_oil,
+some rose_perfume.  I've also heard that the essence_of_jasmine is also
+quite intoxicating, as is rare lilac_oil.
+Which scent would you like to seek out for me?'
+<662hp 555ma 171mv>Akasha's Temple Ah indoors 12:27 pm
+ask aukri about rose_perfume
+You ask Aukri about rose_perfume.
+Aukri tells you 'Ahh, rose-scented body oil.  It is indeed a
+truly seductive scent.  I can lure many lovers if only I had a drop of
+this luscious oil.'
+<662hp 563ma 171mv>Akasha's Temple Ah indoors 12:37 pm
+Autolycos gossips-- 'la la la la laaaaaaaaaaaaaaaa'
+<662hp 565ma 171mv>Akasha's Temple Ah indoors 12:39 pm
+Chameleon gossips-- '*tigress* oh hell'
+<662hp 566ma 171mv>Akasha's Temple Ah indoors 12:41 pm
+Chameleon gossips-- '*tigress* sigh'
+<662hp 569ma 171mv>Akasha's Temple Ah indoors 12:44 pm
+Mosaix gossips-- 'define we'
+<662hp 571ma 171mv>Akasha's Temple Ah indoors 12:48 pm
+Chi gives you a flask of lilac-scented body oil.
+<662hp 574ma 171mv>Akasha's Temple Ah indoors 12:50 pm
+Weasel gossips-- 'weeeeeeeeeeeeeee'
+<662hp 577ma 171mv>Akasha's Temple Ah indoors 12:54 pm
+Autolycos gossips-- 'ticket please....  may i see your ticket?'
+<662hp 579ma 171mv>Akasha's Temple Ah indoors 12:57 pm
+Mosaix gossips-- 'wee wee'
+<662hp 579ma 171mv>Akasha's Temple Ah indoors 12:57 pm
+Chi -- 'undertake lilac_oil'
+<662hp 579ma 171mv>Akasha's Temple Ah indoors 12:58 pm
+Chameleon gossips-- '*tigress* why didn't you tell me that mud bath wasn't going to get me clean'
+<662hp 582ma 171mv>Akasha's Temple Ah indoors 1 o'clock pm
+The radiant sphere around your body fades.
+<662hp 583ma 171mv>Akasha's Temple Ah indoors 1:01 pm
+Chi utters the words, 'qafaia'
+<662hp 583ma 171mv>Akasha's Temple Ah indoors 1:01 pm
+ask aukri about essence_of_jasmine
+You ask Aukri about essence_of_jasmine.
+Aukri tells you 'Yesss, the essence of jasmine can be mixed
+with several different scents to create a perfume so inticing that no
+man, or woman, can resist my desires.'
+<662hp 586ma 171mv>Akasha's Temple Ah indoors 1:05 pm
+Weasel gossips-- 'we mf weeee'
+<662hp 587ma 171mv>Akasha's Temple Ah indoors 1:06 pm
+Chi utters the words, 'xafe ay candusqarr'
+Chi disappears.
+<662hp 589ma 171mv>Akasha's Temple Ah indoors 1:09 pm
+Chi -- 'and give to her'
+<662hp 592ma 171mv>Akasha's Temple Ah indoors 1:12 pm
+undertake lilac_oil
+Aukri tells you 'I've heard of a little tramp that lives
+on an island south of here that adorns herself with her own homemade lilac
+extract.  From the reports that I've heard, she is little more than a common
+whore, she doesn't deserve to use such a potent scent to attract her marks.
+I've also heard rumors that a young princess in a far away land also uses
+this essence, although her innocence most likely prevents her from knowing
+the true seductive power of the herb.'
+<662hp 594ma 171mv>Akasha's Temple Ah indoors 1:15 pm
+i
+Mosaix gossips-- 'cant spell weasel without wea'
+<662hp 595ma 171mv>Akasha's Temple Ah indoors 1:16 pm
+You are carrying:
+a flask of lilac-scented body oil
+a canteen
+an iron crowbar..It emits a faint humming sound!
+a red and white staff
+the ring of the dead
+a backpack
+a scroll of recall [2]
+an orange potion [10]
+a blob of curdled blood [2]
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:17 pm
+give flask aukri
+Ok.
+Aukri tells you 'Congratulations, you have completed the quest 'lilac_oil'!'
+You have gained five drachma.
+Saving Islq.
+Saving items.
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:23 pm
+Weasel gossips-- 'damn straight'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:25 pm
+smile
+You smile happily.
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:27 pm
+Autolycos gossips-- 'heh'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:29 pm
+gt done,another 5D
+You grouptell: '*Druid* done,another 5D'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:32 pm
+lick chi
+Lick away, nobody's here with that name.
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 1:36 pm
+Weasel auctions-- ' oh yeah.. so anyone got magical enchanting dust they'd trade for golden ember of flames?'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:04 pm
+Weasel auctions-- ' :)'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:08 pm
+
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:09 pm
+Aeolus auctions-- ' lol'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:12 pm
+Twig auctions-- ' no, just emerald or hammer here weasel'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:22 pm
+undertake essence_of_jasmine
+Aukri tells you 'I know of a fellow kindred of another clan
+who uses jasmine to lure unsuspecting adventurers into her web and offer
+them sexual pleasures until they die from over-exertion.  I've also heard
+rumors that a young princess in a far away land also uses this essence,
+although her innocence most likely prevents her from knowing the true
+seductive power of the herb.'
+<662hp 596ma 171mv>Akasha's Temple Ah indoors 2:28 pm

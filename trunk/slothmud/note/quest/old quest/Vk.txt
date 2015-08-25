@@ -1,0 +1,53 @@
+
+ask baker about quest
+You ask Shyche, the baker about quest.
+Shyche, the baker tells you 'I am running extremely low on flour.'
+<266hp 264ma 88mv>Newbatia Vk indoors 4:39 pm
+undertake flour
+Shyche, the baker tells you 'Yes, you've already told me that, now when will you finish?'
+<266hp 267ma 90mv>Newbatia Vk indoors 4:44 pm
+give flour baker
+Ok.
+Shyche, the baker tells you 'Wonderful!  Just wonderful!  You are a life
+saver.  Now the Mayor's party can proceed as planned.  Please, take this
+small reward as a token of my gratitude.  And fresh out of the oven, one
+of my top selling confections.'
+Shyche, the baker gives you a banana muffin.
+You have gained five drachma.
+You have been awarded 20000 experience points!
+Saving Magelq.
+Saving items.
+<266hp 271ma 93mv>Newbatia Vk indoors 4:52 pm
+
+ask innkeeper about quest
+You ask the innkeeper lady about quest.
+The innkeeper lady tells you 'I offer the quest 'cleric_guild', which you have completed already.'
+The innkeeper lady tells you 'I offer the quest 'warrior_guild', which you have completed already.'
+The innkeeper lady tells you 'I offer the quest 'thieves_guild', which you have completed already.'
+The innkeeper lady tells you 'I offer the quest 'mage_guild', which you have completed already.'
+The innkeeper lady tells you 'We have a wonderful monk_guild here on Valkyre.'
+The innkeeper lady tells you 'We have a wonderful bard_guild here on Valkyre.'
+The innkeeper lady tells you 'We have a wonderful necromancer_guild here on Valkyre.'
+The innkeeper lady tells you 'We have a wonderful druid_guild here on Valkyre.'
+The innkeeper lady tells you 'The (Crimson) dragon is a nice friendly dragon.'
+The innkeeper lady tells you 'We have several speedy (dragons) who fly to each, SS, BH, and AH.'
+<266hp 252ma 99mv>Newbatia Vk indoors 5:41 pm
+
+give dwarvish innkeeper
+Ok.
+The innkeeper lady tells you 'Great job! I hope you had a good flight?  Here is some drachma for your future trips to the quest shop.'
+You have gained three drachma.
+Saving Magelq.
+Saving items.
+
+ask lady about crimson
+You ask the innkeeper lady about crimson.
+The innkeeper lady tells you 'This great dragon is very friendly and willing to carry adventurers.
+Take the Crimson Dragon and fly to the city of Bal Harbor.  Once you are there, visit
+the well known Dream Weaver.  He is the keeper of the main shop located outside of the
+great elite shops.  He sells many things, tokens, books, poitons, and scrolls.  He also
+sells a letter of introduction, that is used to get you into the Treasure and Dreams
+Square.  You may think about picking up one of these letters if you can spare about
+30 drachma.  Once you find and visit with the Dream Weaver, return here, and I will
+reward you.'
+<266hp 284ma 103mv>Newbatia Vk indoors 2:45 pm

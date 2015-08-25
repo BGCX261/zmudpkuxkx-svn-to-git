@@ -1,0 +1,17 @@
+<400/400hp 145/172ma 158/158mv> xp:12020307 g:217915 ac:[-4.1] 1:08 am Autumnal Forest Vk
+enchant shovel
+You give a studious mage some money.
+You give a studious mage some items.
+A studious mage utters the words, 'unsoqpaih uhzw'
+A studious mage casts a powerful enchantment over an enchanted shovel.
+A studious mage gives you an enchanted shovel.
+
+<400/400hp 146/172ma 158/158mv> xp:12020307 g:117915 ac:[-4.1] 1:15 am Autumnal Forest Vk
+
+
+give shovel hunter
+Ok.
+The fortune hunter tells you 'Yes! I can feel the power flowing within this shovel! Thank you, adventurer!'
+You have gained 15 drachma.
+Saving Thlq.
+Saving items.

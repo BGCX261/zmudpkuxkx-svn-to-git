@@ -1,0 +1,38 @@
+You ask a cook about 'quest'.
+A cook tells you 'How would you like me to cook you a good meal? '
+
+ask cook about meal
+You ask a cook about 'meal'.
+A cook tells you 'Why yes, I will cook you a meal fit for a king.'
+
+undertake meal
+A cook tells you 'Oh, so you are interested in having me prepare some food.  Well that is'
+A cook tells you 'great.  The only thing is, you need to provide me with the main meat.'
+A cook tells you 'I am thinking fish?  How about some dwarvish style walleye?  what is'
+A cook tells you 'walleye you ask?  well that is a type of fresh water fish.  Yes fresh'
+A cook tells you 'water is correct.  There are very few spots known to most that you may'
+A cook tells you 'catch fresh water fish.  But if you find one, and catch me a nice walleye,'
+A cook tells you 'I will be happy to fix it for you.  I would also be happy to reward you '
+A cook tells you 'a few drachma for finding me a location for my next fishing adventure.'
+
+s
+Small Stream
+Exits: North  South  
+You sense several hidden life forms in this area.
+
+<400/400hp 170/170ma 114/138mv> xp:2720632 g:149300 ac:[-0.3] 1:05 am The Greek Forest BH
+castout
+You cast your line out into the water, hoping for a bite.
+....
+
+You reel in a walleye! Nice catch!
+
+give walley cook
+A cook tells you 'I hope you enjoy this fine fish as I have prepared it.'
+A cook gives you a finely cooked walleye.
+You have gained five drachma.
+Saving Thlq.
+Saving items.
+
+
+

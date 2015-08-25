@@ -1,0 +1,33 @@
+ask innkeeper about quest
+You ask the Innkeeper about 'quest'.
+The Innkeeper tells you 'I really hope those bugs don't make thier way into our fair town.  '
+
+<400/400hp 195/195ma 125/133mv> xp:2648093 g:150130 ac:[-8.2] 12:24 pm Bal Harbor Town BH
+ask innkeeper about bugs
+You ask the Innkeeper about 'bugs'.
+The Innkeeper tells you 'It has been reported that the insane asylum north east of town is infested with bugs again.  '
+
+<400/400hp 195/195ma 129/133mv> xp:2648093 g:150130 ac:[-8.2] 12:35 pm Bal Harbor Town BH
+undertake bugs
+The Innkeeper tells you 'Search the insane asylum and rid it of the unwanted roaches.  Your job will be complete when'
+The Innkeeper tells you 'you can bring me back one the head of the queen.  How do you tell a queen roach from the'
+The Innkeeper tells you 'others?  That's not so easy, but it can be done if you study the head hard enough.  The head '
+The Innkeeper tells you 'of the queen is slightly bigger and more bulky then the normal roach.  Good luck on your'
+The Innkeeper tells you 'quest, and I hope you are the right person to help fight the roach infestation before it'
+The Innkeeper tells you 'ends up all over town.  Say, while you are there, feel free to explore the rest of the '
+The Innkeeper tells you 'wonderful asylum.  It will help kill time while waiting for those roaches to pop their'
+The Innkeeper tells you 'heads back out.'
+
+You gain 10499 experience for your first kill in The Asylum!
+Total exp for kill is 10143.
+gt Total exp for kill is 10143.
+Your blood freezes as you hear a huge cockroach's death cry.
+You get the head of a queen roach from the corpse of a huge cockroach that's on the ground.
+
+<379/400hp 195/195ma 133/133mv> xp:2675032 g:150130 ac:[-4.2] 3:34 pm The Asylum BH
+
+The Innkeeper tells you 'The Innkeeper tells you 'You really are a great exterminator for killing those big roaches off.  You deserve this reward.'
+You have gained 20 drachma.
+Saving Thlq.
+Saving items.
+

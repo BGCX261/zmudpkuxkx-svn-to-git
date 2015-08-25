@@ -1,0 +1,11 @@
+24	VK town innkeeper
+30	VK town fat
+5	VK town baker
+30	VK autumnal seeker
+10	VK F.O.C clown lord marshall
+20	BH town	innkeeper
+2	BH Greek guardian
+5	BH asylum cook
+50+	BH goblin trader
+20	BH pit master at the coliseum
+116

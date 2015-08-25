@@ -1,0 +1,59 @@
+Black Marble Hallway
+   The floor of rich black marble glitters softly in the light from the
+chandeliers overhead.  Walls of crystal reflect in every possible direction
+and confuse the eyes.  Doorways lead to the north and south while a
+staircase runs down from here.
+Exits: East  Down
+The corpse of a dust bunny is lying here.
+(Brilliant Blue Aura) A white-robed maiden with tiny white swan-like wings lounges here.
+A large orange and white spotted cat rests on the ground.
+A bewildered man wanders about, looking for prizes.
+Mister Schtuple glows with a bright light!
+
+<650hp 368ma 149mv>School of Cholemry(BH)
+ask brian about quest
+You ask Mister Schtuple about quest.
+Mister Schtuple says 'Islq, i'll pay a decent price for some ceramic trinkets to add to my collection.'
+Mister Schtuple says 'Islq, are you interested in the symbol of life?'
+Mister Schtuple tells you 'I can provide white cloaks.'
+Mister Schtuple tells you 'I'll trade you a hematite ankh I give you for some drachma!'
+
+You ask Mister Schtuple about trinket.
+Mister Schtuple says 'Islq, held close at hand somewhere
+in this beautifully realized school are some odd ceramic
+baubles and other inexpensive trinkets.  If you bring me
+one, I'll reward you handsomely.'
+<659hp 552ma 151mv>School of Cholemry(BH)
+
+undertake trinket
+Mister Schtuple says 'Islq, go get 'em, Tiger!'
+<623hp 218ma 169mv>School of Cholemry BH overcast 11:29 am
+
+give trinket schtuple
+Ok.
+Mister Schtuple says 'Islq, congratulations, you have completed the quest 'trinket'!'
+You have gained five drachma.
+Saving Islq.
+Saving items.
+<625hp 221ma 171mv>School of Cholemry BH overcast 11:48 am
+
+
+ask brian about symbol
+You ask Mister Schtuple about symbol.
+Mister Schtuple says 'Islq, here's how you do it:
+Take two grey robes to Professor Meep.  He collects them and will give
+anyone who brings him the robes an ugly grey decaying ankh as fair
+exchange. Take the ankh to the religion instructor.  Give it to
+her and she'll embed the stuff of life in it for you.  Take this
+enchanted ankh back to me and I'll show you how to complete it.'
+<659hp 552ma 151mv>School of Cholemry(BH)
+
+You ask Mister Schtuple about cloak.
+Mister Schtuple tells you 'I'm interested in blindingly bright cloaks, and I reward well.
+Ok, what you do is, you take a  grey robe, a grey cloak,
+a hematite ankh, and a sun symbol to the master enchanter.
+He uses these things in his day-to-day business, so he's always
+looking for more of them.  Trade him the robe, cloak, ankh and
+symbol for a blindingly bright cloak, then take that cloak back
+to me and I'll exchange it for a cloak that mortals can use.'
+<659hp 552ma 151mv>School of Cholemry(BH)

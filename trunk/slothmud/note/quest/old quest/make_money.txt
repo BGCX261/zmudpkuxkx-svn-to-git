@@ -1,0 +1,44 @@
+Firkin asks Ivec, the supply merchant a question.
+<662hp 484ma 157mv>The Manor of Princess Fisica Ah indoors 8:15 am
+ask ivec about quest
+You ask Ivec, the supply merchant about quest.
+Ivec, the supply merchant tells you 'I'm always searching for ways to make_money.
+I think I've come up with my best plot yet.'
+<662hp 490ma 160mv>The Manor of Princess Fisica Ah indoors 8:22 am
+ask ivec about make_money
+Firkin asks Ivec, the supply merchant a question.
+<662hp 495ma 162mv>The Manor of Princess Fisica Ah indoors 8:28 am
+undertake make_money
+You ask Ivec, the supply merchant about make_money.
+Ivec, the supply merchant tells you 'I've heard of a guide to unusual ways to
+make money in these hard times.'
+<662hp 501ma 166mv>The Manor of Princess Fisica Ah indoors 8:36 am
+Ivec, the supply merchant tells you 'A fellow merchant recently told me about
+his journeys to a floating continent where he found a guide to ways to
+make money.  He is a scoundrel, but if there's a chance that it could
+increase my profit I must have it.'
+<662hp 501ma 166mv>The Manor of Princess Fisica Ah indoors 8:37 am
+Firkin asks Ivec, the supply merchant a question.
+<662hp 504ma 167mv>The Manor of Princess Fisica Ah indoors 8:39 am
+Firkin gives a Get-Rich-Quick pamphlet to Ivec, the supply merchant.
+Ivec, the supply merchant gives some gold to Firkin.
+<662hp 534ma 171mv>The Manor of Princess Fisica Ah indoors 9:17 am
+buy it from VK supply store
+
+
+Firkin asks Pepoit the blacksmith a question.
+<662hp 576ma 165mv>The Manor of Princess Fisica Ah indoors 4:08 pm
+ask pepoit about quest
+Iron tells you 'yes i am'
+You ask Pepoit the blacksmith about quest.
+Pepoit the blacksmith tells you 'My blasted hammer is about to bust!'
+<662hp 576ma 165mv>The Manor of Princess Fisica Ah indoors 4:09 pm
+ask pepoit about hammer
+You ask Pepoit the blacksmith about hammer.
+Pepoit the blacksmith tells you 'I've needed to replace my hammer for ages
+now, but time doesn't allow for me to go in search of one.'
+<662hp 576ma 170mv>The Manor of Princess Fisica Ah indoors 4:20 pm
+undertake hammer
+Pepoit the blacksmith tells you 'I've heard that a fellow blacksmith to the
+south makes the most worthy hammers crafted from a silver alloy.'
+<662hp 576ma 171mv>The Manor of Princess Fisica Ah indoors 4:29 pm

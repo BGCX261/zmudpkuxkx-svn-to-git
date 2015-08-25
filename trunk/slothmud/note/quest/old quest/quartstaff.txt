@@ -1,0 +1,6 @@
+Inra tells you 'try forge/enchant/trade staff at druids too'
+<659hp 552ma 151mv>Murkwood(SS)
+tell inra both of them tell me 'Sorry, I don't know anything about that.'
+You tell Inra 'both of them tell me 'Sorry, I don't know anything about that.''
+<659hp 552ma 151mv>Murkwood(SS)
+Inra tells you 'then try forging at them'

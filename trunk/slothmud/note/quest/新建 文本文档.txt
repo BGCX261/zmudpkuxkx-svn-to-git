@@ -1,0 +1,291 @@
+<400/400hp 170/170ma 142/158mv> xp:4121227 g:176532 ac:[-10.0] 4:33 pm The Goblin Caves BH
+ask trader about quest
+You ask the hobgoblin trader about 'quest'.
+The hobgoblin trader tells you 'Ya can't depend on those goblins'
+The hobgoblin trader tells you 'for nuttin.  Ignoant beasts done let those quicklings steal off with ma'
+The hobgoblin trader tells you 'bag_of_merchandise.'
+Rovena -- 'ask trader about quests'
+
+<400/400hp 170/170ma 146/158mv> xp:4121227 g:176532 ac:[-10.0] 4:42 pm The Goblin Caves BH
+undertake bag_of_merchandise
+The hobgoblin trader tells you 'So go to it.  Tha goblins say those quickling over'
+The hobgoblin trader tells you 'thar ambushed them and stole away inta tha dark forrest with ma '
+The hobgoblin trader tells you 'merchandise.  Go get it, and bring it back ta ma.'
+
+<400/400hp 170/170ma 150/158mv> xp:4121227 g:176532 ac:[-10.0] 4:52 pm The Goblin Caves BH
+give bag trader
+Ok.
+The hobgoblin trader tells you 'Well, I ba a donkey's motha.  Ya'r not sa 
+pitiful as ya look.  I didn't think ya'd ba back, lemma see what I can dig up har
+for ya.   There ya go.  Since ya did a decent job returnin ma merchandise, 
+ya believe ya could deliver_tha_merchandise to tha buyer for ma?'
+The hobgoblin trader gives you a bag of merchandise.
+You have gained five drachma.
+You have been awarded 1000 experience points!
+You have been awarded 100 alignment points!
+Saving Thlq.
+Saving items.
+
+<400/400hp 170/170ma 152/158mv> xp:4122227 g:176532 ac:[-10.0] 4:59 pm The Goblin Caves BH
+A large horse-drawn covered wagon continues upon its journey.
+
+<400/400hp 170/170ma 153/158mv> xp:4122227 g:176532 ac:[-10.0] 5 o'clock pm The Goblin Caves BH
+Rovena -- 'did you undertake'
+
+<400/400hp 170/170ma 157/158mv> xp:4122227 g:176532 ac:[-10.0] 5:11 pm The Goblin Caves BH
+undertake deliver_tha_merchandise
+The hobgoblin trader tells you 'It not ba that hard.  '
+The hobgoblin trader tells you 'Take that bag of merchandise to tha band of wagoneers'
+The hobgoblin trader tells you 'nearby.  Give it ta tha chief.  Sound hard?  Didn't think sa, '
+The hobgoblin trader tells you 'ignoant goblin beasts,  useless they are. '
+The hobgoblin trader tells you 'Once yer done 
+wid that come sa ma,  I got another client that ba lookin fa 
+some strange_ingredients.  Mayba ya could help ma out 
+wid that ta.'
+Saving Thlq.
+Saving items.
+
+Inside the Clan Chief's Wagon
+Exits: West  
+A soiled sheet from some notebook shifts here in the wind.
+A large portion of dried, salted meat has been left here.
+You see Rovena here.
+You also see the leader of the cobalt-clan here.
+
+<400/400hp 170/170ma 81/158mv> xp:4123976 g:178207 ac:[-10.0] 7:58 pm The Wagoneer's Camp BH
+give bag leader
+The leader of the cobalt-clan tells you `Bah, what good is this merchandise
+with all these stolen profits walking out in someone's
+greedy pockets.  Here's your payment at any rate....`
+You have gained five drachma.
+Saving Thlq.
+Saving items.
+
+<400/400hp 170/170ma 81/158mv> xp:4123976 g:178207 ac:[-10.0] 7:59 pm The Wagoneer's Camp BH
+
+<400/400hp 150/170ma 88/158mv> xp:4123976 g:178155 ac:[-10.0] 11:51 pm The Goblin Caves BH
+ask trader about strange_ingredients
+You ask the hobgoblin trader about 'strange_ingredients'.
+The hobgoblin trader tells you 'Yah, ya heard ma right.'
+The hobgoblin trader tells you 'My client has requested I find them six (6) of some'
+The hobgoblin trader tells you 'rare mushroom called a moonshrooms.  Ya think yar up'
+The hobgoblin trader tells you 'ta it?'
+
+<400/400hp 152/170ma 93/158mv> xp:4123976 g:178155 ac:[-10.0] 12:03 am The Goblin Caves BH
+A hobgoblin guard leaves east.
+
+<400/400hp 153/170ma 94/158mv> xp:4123976 g:178155 ac:[-10.0] 12:07 am The Goblin Caves BH
+undertake strange_ingredients
+The hobgoblin trader tells you 'Ok.  Har's what I know about moonshrooms.  '
+The hobgoblin trader tells you 'They only grow in places where tha ground is ripe with decay.'
+The hobgoblin trader tells you 'Perhaps a graveyard, a pigpen, or a swamp.  They only bloom'
+The hobgoblin trader tells you 'at night, during tha day they shrivel away into tha ground.  It'
+The hobgoblin trader tells you 'doesn't matter if they are underground or above, they '
+The hobgoblin trader tells you 'seem ta maintain that cycle of bloomin at night.  It wont be'
+The hobgoblin trader tells you 'easy ta gather ma six (6) of those moonshrooms, but if'
+The hobgoblin trader tells you 'ya can, we'll see what I can da for ya.'
+
+<400/400hp 155/170ma 98/158mv> xp:4123976 g:178155 ac:[-10.0] 12:17 am The Goblin Caves BH
+
+A blooming moonshroom blooms forth from the decayed soil.
+get moon
+<400/400hp 170/170ma 158/158mv> xp:9758955 g:308962 ac:[-4.3] 10:15 pm The Village of the Kobolds BH
+You pluck the moonshroom from the ground.
+Saving Thlq.
+Saving items.
+
+
+give moon trader
+Ok.
+The hobgoblin trader tells you 'Thar seems ta ba na end ta yar wits.
+I'm much impressed.  i trust that ya can 
+deliver_tha_moonshrooms ta tha client for ma?  Ya seem
+reliable sa far.'
+You have gained ten drachma.
+You have been awarded 6000 experience points!
+Saving Thlq.
+Saving items.
+
+<400/400hp 153/170ma 140/158mv> xp:9764955 g:308962 ac:[-4.3] 1:18 pm The Goblin Caves BH
+undertake deliver_tha_moonshrooms
+The hobgoblin trader tells you 'Yar doin well.  Once ya'
+The hobgoblin trader tells you 'have completed this task, I have one ma'
+The hobgoblin trader tells you 'errand I'd like fa ya ta run fa ma.'
+The hobgoblin trader tells you 'I need to restock ma
+supply of uncut_diamonds.'
+The hobgoblin trader gives you six moonshrooms.
+You have gained five drachma.
+You have been awarded 1000 experience points!
+Saving Thlq.
+
+<400/400hp 127/170ma 109/158mv> xp:9765955 g:308962 ac:[-7.3] 6:57 pm The Castle of the Family Degrance BH
+give six chef
+The king's chef tells you `Wonderful, and right on time.
+Amazing that brute operates so effeciently.  Here's
+your receipt for your boss.  Since he trusts you to
+run his errands, perhaps I could get you to run a 
+small_errand for me as well when he's done with you?.`
+You have gained five drachma.
+Saving Thlq.
+Saving items.
+
+<400/400hp 128/170ma 110/158mv> xp:9765955 g:308962 ac:[-7.3] 7:01 pm The Castle of the Family Degrance BH
+
+ask chef about small_errand
+You ask the king's chef about 'small_errand'.
+The king's chef tells you 'Now that I've added the finishing '
+The king's chef tells you 'touches to my stew, I need someone to deliver it for me.'
+The king's chef tells you 'Would you be so kind?  I must warn you however, time'
+The king's chef tells you 'is an essence in this errand.  You must not dilly-dally.'
+
+<400/400hp 135/170ma 123/158mv> xp:9765955 g:308962 ac:[-7.3] 7:36 pm The Castle of the Family Degrance BH
+undertake small_errand
+The king's chef tells you 'Please hurry this stew to the chef'
+The king's chef tells you 'in the local Asylum.  Time is of utmost importance as'
+The king's chef tells you 'the stew will spoil if it is left off the heat for more than '
+The king's chef tells you '10 minutes.  So hurry there, pronto, else it will spoil,'
+The king's chef tells you 'and so will my reputation --- and yours I might add.'
+The king's chef tells you 'Also, if you wouldn't mind, 
+there is one_more_errand I request of you before you leave.
+But first, hurry and deliver the stew.'
+The king's chef gives you a pot of moonshroom stew.
+Saving Thlq.
+Saving items.
+
+<400/400hp 117/170ma 121/158mv> xp:9765955 g:308962 ac:[-7.3] 9 o'clock pm The Asylum BH
+give stew cook
+A cook tells you `Oh joy!  Maybe I can make these
+inmates quit stealin_me_pots now!.`
+You have gained ten drachma.
+Saving Thlq.
+Saving items.
+
+<400/400hp 118/170ma 123/158mv> xp:9765955 g:308962 ac:[-7.3] 9:06 pm The Asylum BH
+Rovena says 'that was quick'
+
+<400/400hp 118/170ma 124/158mv> xp:9765955 g:308962 ac:[-7.3] 9:09 pm The Asylum BH
+ask cook about stealin_me_pots
+You ask a cook about 'stealin_me_pots'.
+A cook tells you 'Yer herd me right!'
+A cook tells you 'These blastad inmates keep stealin me pots.  How am I ever'
+A cook tells you 's'post to be able ta get anytihng done with all me pots stolen.'
+A cook tells you 'If I only had da time to get them back... Busy busy busy!'
+
+<400/400hp 121/170ma 130/158mv> xp:9765955 g:308962 ac:[-7.3] 9:23 pm The Asylum BH
+Rovena says 'was going to gate you'
+
+<400/400hp 122/170ma 130/158mv> xp:9765955 g:308962 ac:[-7.3] 9:25 pm The Asylum BH
+lick rovena
+You lick her.
+
+<400/400hp 122/170ma 131/158mv> xp:9765955 g:308962 ac:[-7.3] 9:27 pm The Asylum BH
+undertake stealin_me_pots
+A cook tells you 'So ya be willin to get me pots back?  How 'swell' of ya.'
+A cook tells you 'While yer hunting me pots, I'll finish up this stew you brought'
+A cook tells you 'me.  By the way, thar be eight (8) pots missing.'
+
+<400/400hp 125/170ma 137/158mv> xp:9765955 g:308962 ac:[-7.3] 9:42 pm The Asylum BH
+
+You get an iron pot from the corpse of a woman that's on the ground.
+You get a clear white potion from the corpse of a woman that's on the ground.
+
+<400/400hp 152/172ma 158/158mv> xp:469610 g:271381 ac:[-4.1] 5:27 pm The Asylum BH
+
+400/400hp 170/172ma 158/158mv> xp:469610 g:271381 ac:[-3.8] 6:59 pm The Asylum BH
+give pot cook
+Ok.
+A cook tells you 'Yer ares a swell person to bring
+me me pots back from those wretched inmates.  
+Now get off with ya, me be a busy fella.'
+You have gained ten drachma.
+Saving Thlq.
+Saving items.
+
+<400/400hp 161/172ma 123/158mv> xp:469610 g:271381 ac:[-4.1] 1:42 am The Goblin Caves BH
+ask trader about uncut_diamonds
+You ask the hobgoblin trader about 'uncut_diamonds'.
+The hobgoblin trader tells you 'Thar ba a river in a valley  far west of here '
+The hobgoblin trader tells you 'where that I've neard carries in its current some of tha most'
+The hobgoblin trader tells you 'spectacular uncut_diamonds in the land.  I ba needin some'
+The hobgoblin trader tells you 'of those diamonds to replenish ma stock.'
+
+<400/400hp 161/172ma 123/158mv> xp:469610 g:271381 ac:[-4.1] 1:44 am The Goblin Caves BH
+
+Rovena says 'crystal trout matterhorn'
+You grouptell: 'need to pop something from trout?'
+Rovena -- 'yes uncut diamonds'
+
+<401/401hp 181/181ma 129/144mv> xp:3016279 g:96663 ac:[-4.0] 2:05 am The Goblin Caves BH
+undertake uncut_diamonds
+The hobgoblin trader tells you 'I can't imagine that tha diamonds just lay'
+The hobgoblin trader tells you 'on the river bed, I'm sure you'll have to hunt for them.  Ever as'
+The hobgoblin trader tells you 'it may, bring ma a single handful of those diamonds, tis all I ba'
+The hobgoblin trader tells you 'needing for now.'
+
+<401/401hp 181/181ma 131/144mv> xp:3016279 g:96663 ac:[-4.0] 2:08 am The Goblin Caves BH
+give uncut trader
+Ok.
+The hobgoblin trader tells you 'Congratulations, you have completed the quest 'uncut_diamonds'!'
+You have gained five drachma.
+You have been awarded 10000 experience points!
+Saving Thlq.
+Saving items.
+
+
+<813/813hp 246/246ma 105/217mv> xp:80990171 g:372373 ac:[-4.0] 4:01 am The Castle of the Family Degrance
+You ask the king's chef about 'one_more_errand'.
+The king's chef tells you 'I'm so fortunate to have this position'
+The king's chef tells you 'cooking for the King.  I owe it all to my mentor.'
+The king's chef tells you 'I haven't had a chance to check on her lately,'
+The king's chef tells you 'she's very old and I worry about her so.  Would'
+The king's chef tells you 'you mind looking in on her for me to check the condition'
+The king's chef tells you 'of her health?'
+
+<813/813hp 246/246ma 121/217mv> xp:80990171 g:372373 ac:[-4.0] 4:34 am The Castle of the Family Degrance
+The king's chef tells you 'The last I heard was that she '
+The king's chef tells you 'ran the kitchen in a small village along the road leading'
+The king's chef tells you 'through Bal Harbour.'
+
+<813/813hp 246/246ma 121/217mv> xp:80990171 g:372373 ac:[-4.0] 4:35 am The Castle of the Family Degrance
+
+The Red Eagle Inn
+Exits: North  South  
+You see Bran the innkeeper and a flamboyantly dressed gleeman here.
+
+<813/813hp 189/246ma 98/217mv> xp:80990171 g:372373 ac:[-4.0] 6:41 am Westwood
+As you pass through the door to the kitchen the clang of pots rings in
+your ears as the smell of fresh bread tempts your appetite.
+
+You walk in on the middle of a conversation.
+The cook whispers to a young lad, `I dunno what I'm gonna do,
+so many mouths to feed, and not a single morsel of meat.
+Oh, we have guests... run along now, ask Bran about
+the stock_supply.`.
+A young lad barely makes a sound as he slips through the kitchen door.
+Kitchen of the Red Eagle
+Exits: North  South  
+A hard reddish wooden branch lies on the ground here.
+You see the cook here.
+
+<813/813hp 224/246ma 138/217mv> xp:80990171 g:372373 ac:[-4.0] 8:38 am Westwood
+The Red Eagle Inn
+Exits: North  South  
+You see Bran the innkeeper and a flamboyantly dressed gleeman here.
+
+<813/813hp 225/246ma 139/217mv> xp:80990171 g:372373 ac:[-4.0] 8:42 am Westwood
+You ask Bran the innkeeper about 'stock_supply'.
+Bran the innkeeper tells you 'So ya heard?  Yeah, it's true.'
+Bran the innkeeper tells you 'We haven't received our shipment of food stock this'
+Bran the innkeeper tells you 'month.  If I don't get our meat stock in soon that ole'
+Bran the innkeeper tells you 'cook is gonna drive me insane. '
+
+<813/813hp 229/246ma 143/217mv> xp:80990171 g:372373 ac:[-4.0] 8:55 am Westwood
+Bran the innkeeper tells you 'I need someone to go find out'
+Bran the innkeeper tells you 'Whats taking my food_shipment so long to arrive.'
+Bran the innkeeper tells you 'Would you be willing?'
+You have been awarded 100 alignment points!
+Saving Thlq.
+Saving items.
+
+<813/813hp 232/246ma 147/217mv> xp:80990171 g:372373 ac:[-4.0] 9:03 am Westwood
+

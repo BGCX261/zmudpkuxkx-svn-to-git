@@ -1,0 +1,77 @@
+undertake pen
+The dwarven scribe tells you 'I had my pen a few days ago when I made a large pile of scrolls, but today I felt like writing
+out some new ones, went to grab my pen, and it was gone.  I am betting that darn Shallah took
+it again.  She keeps taking it to use for people to sign her guestbook when they stay with her.
+I don't mind, but now my very last pen is gone.  I have heard leah has a special pen, just for
+scribes, that will return to my possession magically every time I lose it.  Visit her, and see
+if she will give you such a pen for me.  While you are there, ask her about being a (seer).
+I hear she is now the head enchantress, or will be soon after she obtains the ring for it.
+If you bring me the pen, I will reward you with a nice little silver statue.'
+<612hp 445ma 149mv>Settlestone SS indoors 2:35 pm
+
+Cantrips and Prayers
+Exits: West
+The plot of this book got lost between the covers.
+A sacred songbook here shows signs of wear and tear.
+A blessed spellbook with strange runes lies forgotten on the ground.
+You see Leah the Witch here.
+<661hp 553ma 136mv>Aisholm Town Ah indoors 6:34 pm
+Alas, you cannot go that way...
+<661hp 553ma 136mv>Aisholm Town Ah indoors 6:34 pm
+ask leah about quest
+You ask Leah the Witch about quest.
+Leah the Witch tells you 'I don't of anybody questing around these parts.'
+<661hp 553ma 138mv>Aisholm Town Ah indoors 6:41 pm
+ask leah about seer
+You ask Leah the Witch about seer.
+Leah the Witch tells you 'That's right, I am a powerful seer of magic.'
+<661hp 553ma 143mv>Aisholm Town Ah indoors 6:53 pm
+undertake seer
+Leah the Witch tells you 'Many moons ago, when I was young, I decided to follow the path of the magical enchantress.  The
+enchantress has since passed over to the other world, but has left behind a ring special magic
+she wanted me to have.  I have just received word that her sister, one of the well known guild
+leader and witch, is holding the ring for me.  Please visit her, and ask her about the ring
+known as (xindara).  Maybe she will be willing to turn this ring over to you to bring to me.
+If you can bring me this ring, I will then reward you with an item the dwarven scribe
+asked you to find for him.  I will also give you this cute little statue I have.  I have no
+special use for it, but maybe you can find something to use it for.  I would do this myself,
+but who would watch my shop while I am gone?  All these young adventurers require potions,
+spellbooks, and scrolls, plus my special brews, that I have no choice but wait here.'
+<661hp 553ma 149mv>Aisholm Town Ah indoors 7:08 pm
+
+ask witch about ring
+You ask the witch Xeadra about ring.
+The witch Xeadra tells you 'Oh, the great seer Leah sent you to pick up the ring did she?'
+<661hp 199ma 171mv>The Witches Domain BH overcast 4:21 am
+undertake ring
+The witch Xeadra tells you 'Well, lets see, where did I put that ring, I know it was just here.  Just my luck, can't find
+what I want when I need it.  Speaking of luck, have you ever heard the story about the lucky
+clover covered with blood?  That's right, such a thing does exist.  Deep within some mystical
+temple of undead, a once beautiful queen but now rather frightening creature, holds the fabled
+clover of blood.  Seek her out and get the clover from her anyway you must and I will reward you
+with a nice statue made of pure ivory.  I will also reward you nicely with some drachma to help
+you buy nice stuff at the Dream Weaver's shop.  While you are seek out the clover, I will find
+that darn ring Leah.  I know it is somewhere around here.  Go now, and be very careful, and
+good luck!'
+<661hp 236ma 171mv>The Witches Domain BH overcast 4:55 am
+
+Chi tells you 'its on SS'
+You tell Chi 'it has another name?'
+Chi tells you 'the runs are like, from well, 7e2se,all south before the boatman, (need a boat), all west, go north until u can go west,'
+Chi tells you 'then all west, and there will be a vessel there'
+Chi tells you 'yeah its called temple ruins'
+Chi tells you 'not exactly mystical temples, cause its just north of it'
+You tell Chi 'thanks,need to kill that queen?is it soloable for me? :)'
+
+Chi tells you 'its too big for you :)'
+You tell Chi 'doh, okie thanks, i will try to found it,just let me have a look at her. :)'
+Chi tells you 'i sugguest you dont do it yet, its quite tough and you need to know how to get in'
+Chi tells you 'everything there is aggro, to get in there you need a key'
+Chi tells you 'and pass the key, you need another key to unlock'
+Chi tells you 'there are alot of aggros there'
+Chi tells you 'and queen maragore is soloable, but needs some skills and thought'
+You tell Chi 'ic,it's another stupid quest.. :D'
+You tell Chi 'thanks'
+
+Chi tells you 'nah not stupid quest, just tough'
+Chi tells you 'its quite easy actually, just you have no experience on it :)'

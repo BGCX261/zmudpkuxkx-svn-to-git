@@ -1,0 +1,28 @@
+You brutally massacre a drunk man with your slash.
+A drunk man is dead! R.I.P.
+Total exp for kill is 50712.
+Your blood freezes as you hear a drunk man's death cry.
+You get a jug of sacred wine from the corpse of a drunk man that's on the ground.
+You get gold coins from the corpse of a drunk man that's on the ground.
+There were 4392 coins.
+<152hp 81ma 39mv>Troglodytes BH indoors 6:58 am
+
+undertake sacred_wine
+Pholus tells you 'Well it seems you are out of luck!  Someone has beaten you to the jug of sacred red
+juices.  Oh you say you are here to help hey, not steal?  We to prove yourself, find
+and return the sacred jug of wine to me at once.  Only then can I trust you, as you
+have asked.  Who stole the wine you wonder?  Well all I know is he was drunk, very
+drunk.  He also was of my own people, but we have yet to find this traitor.  All
+the Centaur's knew just how sacred this wine was, and we never figured any of them
+would steal it.  Maybe if you ask around among my people and ask about the wine,
+someone can point you in the right direction.
+'
+<182hp 53ma 86mv>The Greek Forest BH overcast 10:19 am
+Pholus utters the words, 'candusgugh yufz'
+<183hp 54ma 87mv>The Greek Forest BH overcast 10:21 am
+give wine pholus
+Ok.
+Pholus tells you 'Great job hero, now I know I can trust you later on if need be.  I hope that some drachma is ok for a reward.'
+You have gained 30 drachma.
+Saving Magelq.
+Saving items.
